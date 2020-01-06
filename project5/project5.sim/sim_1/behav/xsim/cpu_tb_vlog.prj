@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib "C:/Users/Yeom/projects/SNU430.322/project5/project5.srcs/sources_1/imports/project5_files/constants.v" --include "../../../../project5.srcs/sources_1/imports/project5_files" \
+"../../../../project5.srcs/sources_1/imports/project5_files/ALU.v" \
+"../../../../project5.srcs/sources_1/imports/project5_files/cpu.v" \
+"../../../../project5.srcs/sources_1/imports/project5_files/memory.v" \
+"../../../../project5.srcs/sources_1/imports/project5_files/regfile.v" \
+"../../../../project5.srcs/sim_1/imports/project5_files/cpu_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

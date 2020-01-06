@@ -1,0 +1,3763 @@
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  1-1 has been succeeded
+Test #  1-1 has been succeeded
+Test #  1-1 has been succeeded
+Test #  1-1 has been succeeded
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  1-2 has been succeeded
+Test #  1-2 has been succeeded
+Test #  1-2 has been succeeded
+Test #  1-2 has been succeeded
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  1-3 has been succeeded
+Test #  1-3 has been succeeded
+Test #  1-3 has been succeeded
+Test #  1-3 has been succeeded
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  1-4 has been succeeded
+Test #  1-4 has been succeeded
+Test #  1-4 has been succeeded
+Test #  1-4 has been succeeded
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  2-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test #  2-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test #  2-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test #  2-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  2-2 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  2-2 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  2-2 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  2-2 has been failed!
+output_port = 0x0 (Ans : 0x2)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  3-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test #  3-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test #  3-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test #  3-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  3-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  3-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  3-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  3-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  3-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  3-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  3-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  3-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  4-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  4-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  4-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  4-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  4-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  4-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  4-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  4-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  4-3 has been failed!
+output_port = 0x0 (Ans : 0x5)
+Test #  4-3 has been failed!
+output_port = 0x0 (Ans : 0x5)
+Test #  4-3 has been failed!
+output_port = 0x0 (Ans : 0x5)
+Test #  4-3 has been failed!
+output_port = 0x0 (Ans : 0x5)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  5-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  5-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  5-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  5-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  5-2 has been failed!
+output_port = 0x0 (Ans : 0xfffe)
+Test #  5-2 has been failed!
+output_port = 0x0 (Ans : 0xfffe)
+Test #  5-2 has been failed!
+output_port = 0x0 (Ans : 0xfffe)
+Test #  5-2 has been failed!
+output_port = 0x0 (Ans : 0xfffe)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  5-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  5-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  5-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  5-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  5-4 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+Test #  5-4 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+Test #  5-4 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+Test #  5-4 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  5-5 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test #  5-5 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test #  5-5 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test #  5-5 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  5-6 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test #  5-6 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test #  5-6 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test #  5-6 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  6-1 has been succeeded
+Test #  6-1 has been succeeded
+Test #  6-1 has been succeeded
+Test #  6-1 has been succeeded
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  6-2 has been succeeded
+Test #  6-2 has been succeeded
+Test #  6-2 has been succeeded
+Test #  6-2 has been succeeded
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  6-3 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  6-3 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  6-3 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  6-3 has been failed!
+output_port = 0x0 (Ans : 0x2)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  7-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  7-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  7-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+Test #  7-1 has been failed!
+output_port = 0x0 (Ans : 0x2)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  7-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  7-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  7-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  7-2 has been failed!
+output_port = 0x0 (Ans : 0x3)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  7-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  7-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  7-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+Test #  7-3 has been failed!
+output_port = 0x0 (Ans : 0x3)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  8-1 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+Test #  8-1 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+Test #  8-1 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+Test #  8-1 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  8-2 has been failed!
+output_port = 0x0 (Ans : 0xfffc)
+Test #  8-2 has been failed!
+output_port = 0x0 (Ans : 0xfffc)
+Test #  8-2 has been failed!
+output_port = 0x0 (Ans : 0xfffc)
+Test #  8-2 has been failed!
+output_port = 0x0 (Ans : 0xfffc)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  8-3 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test #  8-3 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test #  8-3 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test #  8-3 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  9-1 has been failed!
+output_port = 0x0 (Ans : 0xfffe)
+Test #  9-1 has been failed!
+output_port = 0x0 (Ans : 0xfffe)
+Test #  9-1 has been failed!
+output_port = 0x0 (Ans : 0xfffe)
+Test #  9-1 has been failed!
+output_port = 0x0 (Ans : 0xfffe)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  9-2 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+Test #  9-2 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+Test #  9-2 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+Test #  9-2 has been failed!
+output_port = 0x0 (Ans : 0xfffd)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #  9-3 has been succeeded
+Test #  9-3 has been succeeded
+Test #  9-3 has been succeeded
+Test #  9-3 has been succeeded
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 10-1 has been failed!
+output_port = 0x0 (Ans : 0x4)
+Test # 10-1 has been failed!
+output_port = 0x0 (Ans : 0x4)
+Test # 10-1 has been failed!
+output_port = 0x0 (Ans : 0x4)
+Test # 10-1 has been failed!
+output_port = 0x0 (Ans : 0x4)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 10-2 has been failed!
+output_port = 0x0 (Ans : 0x6)
+Test # 10-2 has been failed!
+output_port = 0x0 (Ans : 0x6)
+Test # 10-2 has been failed!
+output_port = 0x0 (Ans : 0x6)
+Test # 10-2 has been failed!
+output_port = 0x0 (Ans : 0x6)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 10-3 has been succeeded
+Test # 10-3 has been succeeded
+Test # 10-3 has been succeeded
+Test # 10-3 has been succeeded
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 11-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 11-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 11-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 11-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 11-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 11-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 11-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 11-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 11-3 has been succeeded
+Test # 11-3 has been succeeded
+Test # 11-3 has been succeeded
+Test # 11-3 has been succeeded
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 12-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 12-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 12-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 12-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 12-2 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 12-2 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 12-2 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 12-2 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 13-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 13-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 13-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 13-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 13-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 13-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 13-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 13-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 14-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 14-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 14-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 14-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 14-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 14-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 14-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 14-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 15-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 15-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 15-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 15-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 16-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 16-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 16-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 16-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 16-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 16-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 16-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 16-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 17-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 17-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 17-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 17-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 17-3 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 17-3 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 17-3 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 17-3 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 18-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 18-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 18-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 18-1 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 18-2 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 18-2 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 18-3 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 18-3 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 18-3 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 18-3 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 19-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+Test # 19-1 has been failed!
+output_port = 0x0 (Ans : 0xffff)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 19-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+Test # 19-2 has been failed!
+output_port = 0x0 (Ans : 0x1)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test # 19-3 has been failed!
+output_port = 0x0 (Ans : 0x8)
+Test # 19-3 has been failed!
+output_port = 0x0 (Ans : 0x8)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Test #   20 has been failed!
+output_port = 0x0 (Ans : 0x22)
+Test #   20 has been failed!
+output_port = 0x0 (Ans : 0x22)
+Test #   20 has been failed!
+output_port = 0x0 (Ans : 0x22)
+Test #   20 has been failed!
+output_port = 0x0 (Ans : 0x22)
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+DEBUG >> Instruction Latched: zzzzzzzzzzzzzzzz
+Clock # 9999
+The testbench is finished. Summarizing...
+Test #  2-1 :     Wrong
+Test #  2-2 :     Wrong
+Test #  3-1 :     Wrong
+Test #  3-2 :     Wrong
+Test #  3-3 :     Wrong
+Test #  4-1 :     Wrong
+Test #  4-2 :     Wrong
+Test #  4-3 :     Wrong
+Test #  5-1 :     Wrong
+Test #  5-2 :     Wrong
+Test #  5-3 :     Wrong
+Test #  5-4 :     Wrong
+Test #  5-5 :     Wrong
+Test #  5-6 :     Wrong
+Test #  6-3 :     Wrong
+Test #  7-1 :     Wrong
+Test #  7-2 :     Wrong
+Test #  7-3 :     Wrong
+Test #  8-1 :     Wrong
+Test #  8-2 :     Wrong
+Test #  8-3 :     Wrong
+Test #  9-1 :     Wrong
+Test #  9-2 :     Wrong
+Test # 10-1 :     Wrong
+Test # 10-2 :     Wrong
+Test # 11-1 :     Wrong
+Test # 11-2 :     Wrong
+Test # 12-1 :     Wrong
+Test # 12-2 :     Wrong
+Test # 13-1 :     Wrong
+Test # 13-2 :     Wrong
+Test # 14-1 :     Wrong
+Test # 14-2 :     Wrong
+Test # 15-1 :     Wrong
+Test # 15-2 :     Wrong
+Test # 16-1 :     Wrong
+Test # 16-2 :     Wrong
+Test # 17-1 :     Wrong
+Test # 17-2 :     Wrong
+Test # 17-3 :     Wrong
+Test # 18-1 :     Wrong
+Test # 18-2 :     Wrong
+Test # 18-3 :     Wrong
+Test # 19-1 :     Wrong
+Test # 19-2 :     Wrong
+Test # 19-3 :     Wrong
+Test #   20 :     Wrong
+Pass : 9/56

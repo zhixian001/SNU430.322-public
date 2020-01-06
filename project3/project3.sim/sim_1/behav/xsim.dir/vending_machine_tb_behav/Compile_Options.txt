@@ -1,0 +1,1 @@
+--incremental --debug "typical" --O2 --relax --mt "auto" -L "work" -L "unisims_ver" -L "unimacro_ver" -L "xilinxcorelib_ver" -L "secureip" --snapshot "vending_machine_tb_behav" --prj "C:/Users/ece/Desktop/project3/project3.sim/sim_1/behav/vending_machine_tb.prj" "work.vending_machine_tb" "work.glbl" 

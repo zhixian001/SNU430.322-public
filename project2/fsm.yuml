@@ -1,0 +1,15 @@
+// {type:state}
+
+(start)reset->(init|0)
+
+(init|0)0->(zero|0) 
+(init|0)1->(init|0)
+
+(zero|0)0->(zero|0)
+(zero|0)1->(one|0)
+
+(one|0)0->(match|1)
+(one|0)1->(init|0)
+
+(match|1)0->(zero|0)
+(match|1)1->(one|0)

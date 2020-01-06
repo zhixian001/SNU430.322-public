@@ -1,0 +1,47 @@
+Compiling VVP ...
+ ... VVP file version 0.9.7  (v0_9_7)
+Compile cleanup...
+ ...      341 functors (net_fun pool=0 bytes)
+                 26 logic
+                  0 bufif
+                  4 resolv
+                235 signals
+ ...     3632 opcodes (98304 bytes)
+ ...      362 nets
+ ...      341 vvp_nets (1048560 bytes)
+ ...        0 arrays (0 words)
+ ...        6 memories
+                  6 logic (484 words)
+                  0 real (0 words)
+ ...       29 scopes
+ ... 0 seconds, 17900.0/4532.0/2056.0 KBytes size/rss/shared
+Running ...
+Test # 15-1 has been failed!
+output_port = 0x1 (Ans : 0xffff)
+Clock #  227
+The testbench is finished. Summarizing...
+Test # 15-1 :     Wrong
+Test # 15-2 : No Result
+Test # 16-1 : No Result
+Test # 16-2 : No Result
+Test # 17-1 : No Result
+Test # 17-2 : No Result
+Test # 17-3 : No Result
+Test # 18-1 : No Result
+Test # 18-2 : No Result
+Test # 18-3 : No Result
+Test # 19-1 : No Result
+Test # 19-2 : No Result
+Test # 19-3 : No Result
+Test #   20 : No Result
+Pass : 42/56
+ ... 0.015625 seconds, 17900.0/4700.0/2224.0 KBytes size/rss/shared
+Event counts:
+         462 time steps (pool=128)
+        3154 thread schedule events
+        9282 assign events
+             ...assign(vec4) pool=9362
+             ...assign(vec8) pool=204
+             ...assign(real) pool=256
+             ...assign(word) pool=256
+        3521 other events (pool=4096)

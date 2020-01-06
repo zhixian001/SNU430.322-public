@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Mon Apr 15 11:09:21 2019
+# Process ID: 5716
+# Current directory: C:/Users/ECE/Desktop/project4/project4.runs/synth_1
+# Command line: vivado.exe -log RF.vds -mode batch -messageDb vivado.pb -notrace -source RF.tcl
+# Log file: C:/Users/ECE/Desktop/project4/project4.runs/synth_1/RF.vds
+# Journal file: C:/Users/ECE/Desktop/project4/project4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source RF.tcl -notrace

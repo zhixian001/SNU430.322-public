@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="cpu_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="cpu_TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="4165576324fs"></ZoomEndTime>
+      <Cursor1Time time="28450000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="181"></NameColumnWidth>
+      <ValueColumnWidth column_width="81"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="group3242" type="group">
+      <obj_property name="label">ID_EX</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/clk" type="logic">
+         <obj_property name="ElementShortName">clk</obj_property>
+         <obj_property name="ObjectShortName">clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/reset_n" type="logic">
+         <obj_property name="ElementShortName">reset_n</obj_property>
+         <obj_property name="ObjectShortName">reset_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/enable_id_ex" type="logic">
+         <obj_property name="ElementShortName">enable_id_ex</obj_property>
+         <obj_property name="ObjectShortName">enable_id_ex</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/valid_id_ex" type="logic">
+         <obj_property name="ElementShortName">valid_id_ex</obj_property>
+         <obj_property name="ObjectShortName">valid_id_ex</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_next_pc" type="array">
+         <obj_property name="ElementShortName">id_next_pc[15:0]</obj_property>
+         <obj_property name="ObjectShortName">id_next_pc[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_next_pc" type="array">
+         <obj_property name="ElementShortName">ex_next_pc[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_next_pc[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_ex_control_signal" type="array">
+         <obj_property name="ElementShortName">id_ex_control_signal[9:0]</obj_property>
+         <obj_property name="ObjectShortName">id_ex_control_signal[9:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_mem_control_signal" type="array">
+         <obj_property name="ElementShortName">id_mem_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">id_mem_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_wb_control_signal" type="array">
+         <obj_property name="ElementShortName">id_wb_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">id_wb_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_ex_control_signal" type="array">
+         <obj_property name="ElementShortName">ex_ex_control_signal[9:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_ex_control_signal[9:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_mem_control_signal" type="array">
+         <obj_property name="ElementShortName">ex_mem_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_mem_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_wb_control_signal" type="array">
+         <obj_property name="ElementShortName">ex_wb_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_wb_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_regout1" type="array">
+         <obj_property name="ElementShortName">id_regout1[15:0]</obj_property>
+         <obj_property name="ObjectShortName">id_regout1[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_regout2" type="array">
+         <obj_property name="ElementShortName">id_regout2[15:0]</obj_property>
+         <obj_property name="ObjectShortName">id_regout2[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_sign_ext" type="array">
+         <obj_property name="ElementShortName">id_sign_ext[15:0]</obj_property>
+         <obj_property name="ObjectShortName">id_sign_ext[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_regaddr_rt" type="array">
+         <obj_property name="ElementShortName">id_regaddr_rt[1:0]</obj_property>
+         <obj_property name="ObjectShortName">id_regaddr_rt[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_regaddr_rd" type="array">
+         <obj_property name="ElementShortName">id_regaddr_rd[1:0]</obj_property>
+         <obj_property name="ObjectShortName">id_regaddr_rd[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_regout1" type="array">
+         <obj_property name="ElementShortName">ex_regout1[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regout1[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_regout2" type="array">
+         <obj_property name="ElementShortName">ex_regout2[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regout2[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_sign_ext" type="array">
+         <obj_property name="ElementShortName">ex_sign_ext[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_sign_ext[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_regaddr_rt" type="array">
+         <obj_property name="ElementShortName">ex_regaddr_rt[1:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regaddr_rt[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_regaddr_rd" type="array">
+         <obj_property name="ElementShortName">ex_regaddr_rd[1:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regaddr_rd[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_next_pc_add_1" type="array">
+         <obj_property name="ElementShortName">id_next_pc_add_1[15:0]</obj_property>
+         <obj_property name="ObjectShortName">id_next_pc_add_1[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_next_pc_add_1" type="array">
+         <obj_property name="ElementShortName">ex_next_pc_add_1[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_next_pc_add_1[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/id_j_instruction" type="array">
+         <obj_property name="ElementShortName">id_j_instruction[11:0]</obj_property>
+         <obj_property name="ObjectShortName">id_j_instruction[11:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/ex_j_instruction" type="array">
+         <obj_property name="ElementShortName">ex_j_instruction[11:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_j_instruction[11:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/internal_ex_ex_control_signal" type="array">
+         <obj_property name="ElementShortName">internal_ex_ex_control_signal[9:0]</obj_property>
+         <obj_property name="ObjectShortName">internal_ex_ex_control_signal[9:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/internal_ex_mem_control_signal" type="array">
+         <obj_property name="ElementShortName">internal_ex_mem_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">internal_ex_mem_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/internal_ex_wb_control_signal" type="array">
+         <obj_property name="ElementShortName">internal_ex_wb_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">internal_ex_wb_control_signal[3:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group3212" type="group">
+      <obj_property name="label">EX</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_next_pc" type="array">
+         <obj_property name="ElementShortName">ex_next_pc[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_next_pc[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_ex_control_signal" type="array">
+         <obj_property name="ElementShortName">ex_ex_control_signal[9:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_ex_control_signal[9:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_mem_control_signal" type="array">
+         <obj_property name="ElementShortName">ex_mem_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_mem_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_wb_control_signal" type="array">
+         <obj_property name="ElementShortName">ex_wb_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_wb_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_regout1" type="array">
+         <obj_property name="ElementShortName">ex_regout1[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regout1[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_regout2" type="array">
+         <obj_property name="ElementShortName">ex_regout2[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regout2[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_sign_ext" type="array">
+         <obj_property name="ElementShortName">ex_sign_ext[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_sign_ext[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_regaddr_rt" type="array">
+         <obj_property name="ElementShortName">ex_regaddr_rt[1:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regaddr_rt[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_regaddr_rd" type="array">
+         <obj_property name="ElementShortName">ex_regaddr_rd[1:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regaddr_rd[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/j_instruction" type="array">
+         <obj_property name="ElementShortName">j_instruction[11:0]</obj_property>
+         <obj_property name="ObjectShortName">j_instruction[11:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_calculated_next_pc" type="array">
+         <obj_property name="ElementShortName">ex_calculated_next_pc[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_calculated_next_pc[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_branch_condition" type="logic">
+         <obj_property name="ElementShortName">ex_branch_condition</obj_property>
+         <obj_property name="ObjectShortName">ex_branch_condition</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_alu_result" type="array">
+         <obj_property name="ElementShortName">ex_alu_result[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_alu_result[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_regdst_out" type="array">
+         <obj_property name="ElementShortName">ex_regdst_out[1:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regdst_out[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_mem_pc_add_1" type="array">
+         <obj_property name="ElementShortName">ex_mem_pc_add_1[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_mem_pc_add_1[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_next_pc_add_1" type="array">
+         <obj_property name="ElementShortName">ex_next_pc_add_1[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_next_pc_add_1[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/out_branch_addr_add" type="array">
+         <obj_property name="ElementShortName">out_branch_addr_add[15:0]</obj_property>
+         <obj_property name="ObjectShortName">out_branch_addr_add[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/out_alu" type="array">
+         <obj_property name="ElementShortName">out_alu[15:0]</obj_property>
+         <obj_property name="ObjectShortName">out_alu[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/alusrcB" type="array">
+         <obj_property name="ElementShortName">alusrcB[15:0]</obj_property>
+         <obj_property name="ObjectShortName">alusrcB[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_stage/jump_concat" type="array">
+         <obj_property name="ElementShortName">jump_concat[15:0]</obj_property>
+         <obj_property name="ObjectShortName">jump_concat[15:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group3267" type="group">
+      <obj_property name="label">EX_MEM</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/clk" type="logic">
+         <obj_property name="ElementShortName">clk</obj_property>
+         <obj_property name="ObjectShortName">clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/reset_n" type="logic">
+         <obj_property name="ElementShortName">reset_n</obj_property>
+         <obj_property name="ObjectShortName">reset_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/enable_ex_mem" type="logic">
+         <obj_property name="ElementShortName">enable_ex_mem</obj_property>
+         <obj_property name="ObjectShortName">enable_ex_mem</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/valid_ex_mem" type="logic">
+         <obj_property name="ElementShortName">valid_ex_mem</obj_property>
+         <obj_property name="ObjectShortName">valid_ex_mem</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/ex_calculated_next_pc" type="array">
+         <obj_property name="ElementShortName">ex_calculated_next_pc[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_calculated_next_pc[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/ex_next_pc" type="array">
+         <obj_property name="ElementShortName">ex_next_pc[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_next_pc[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/mem_calculated_next_pc" type="array">
+         <obj_property name="ElementShortName">mem_calculated_next_pc[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_calculated_next_pc[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/mem_next_pc" type="array">
+         <obj_property name="ElementShortName">mem_next_pc[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_next_pc[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/ex_mem_control_signal" type="array">
+         <obj_property name="ElementShortName">ex_mem_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_mem_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/ex_wb_control_signal" type="array">
+         <obj_property name="ElementShortName">ex_wb_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_wb_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/mem_mem_control_signal" type="array">
+         <obj_property name="ElementShortName">mem_mem_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_mem_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/mem_wb_control_signal" type="array">
+         <obj_property name="ElementShortName">mem_wb_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_wb_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/ex_branch_condition" type="logic">
+         <obj_property name="ElementShortName">ex_branch_condition</obj_property>
+         <obj_property name="ObjectShortName">ex_branch_condition</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/ex_alu_result" type="array">
+         <obj_property name="ElementShortName">ex_alu_result[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_alu_result[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/ex_regout2" type="array">
+         <obj_property name="ElementShortName">ex_regout2[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regout2[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/ex_regdst_out" type="array">
+         <obj_property name="ElementShortName">ex_regdst_out[1:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_regdst_out[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/mem_branch_condition" type="logic">
+         <obj_property name="ElementShortName">mem_branch_condition</obj_property>
+         <obj_property name="ObjectShortName">mem_branch_condition</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/mem_alu_result" type="array">
+         <obj_property name="ElementShortName">mem_alu_result[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_alu_result[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/mem_regout2" type="array">
+         <obj_property name="ElementShortName">mem_regout2[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_regout2[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/mem_regdst_out" type="array">
+         <obj_property name="ElementShortName">mem_regdst_out[1:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_regdst_out[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/ex_next_pc_add_1" type="array">
+         <obj_property name="ElementShortName">ex_next_pc_add_1[15:0]</obj_property>
+         <obj_property name="ObjectShortName">ex_next_pc_add_1[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/mem_next_pc_add_1" type="array">
+         <obj_property name="ElementShortName">mem_next_pc_add_1[15:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_next_pc_add_1[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/internal_mem_mem_control_signal" type="array">
+         <obj_property name="ElementShortName">internal_mem_mem_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">internal_mem_mem_control_signal[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/internal_mem_wb_control_signal" type="array">
+         <obj_property name="ElementShortName">internal_mem_wb_control_signal[3:0]</obj_property>
+         <obj_property name="ObjectShortName">internal_mem_wb_control_signal[3:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/reset_n" type="logic">
+      <obj_property name="ElementShortName">reset_n</obj_property>
+      <obj_property name="ObjectShortName">reset_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/is_halted" type="logic">
+      <obj_property name="ElementShortName">is_halted</obj_property>
+      <obj_property name="ObjectShortName">is_halted</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/d_writeM" type="logic">
+      <obj_property name="ElementShortName">d_writeM</obj_property>
+      <obj_property name="ObjectShortName">d_writeM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/d_readM" type="logic">
+      <obj_property name="ElementShortName">d_readM</obj_property>
+      <obj_property name="ObjectShortName">d_readM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/d_data" type="array">
+      <obj_property name="ElementShortName">d_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">d_data[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/d_address" type="array">
+      <obj_property name="ElementShortName">d_address[15:0]</obj_property>
+      <obj_property name="ObjectShortName">d_address[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+</wave_config>

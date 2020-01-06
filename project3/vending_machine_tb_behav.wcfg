@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="vending_machine_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="vending_machine_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/vending_machine_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_machine_tb/reset_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset_n</obj_property>
+      <obj_property name="ObjectShortName">reset_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_machine_tb/i_input_coin" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_input_coin[2:0]</obj_property>
+      <obj_property name="ObjectShortName">i_input_coin[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_machine_tb/i_select_item" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i_select_item[3:0]</obj_property>
+      <obj_property name="ObjectShortName">i_select_item[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_machine_tb/i_trigger_return" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">i_trigger_return</obj_property>
+      <obj_property name="ObjectShortName">i_trigger_return</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_machine_tb/o_available_item" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">o_available_item[3:0]</obj_property>
+      <obj_property name="ObjectShortName">o_available_item[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_machine_tb/o_output_item" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">o_output_item[3:0]</obj_property>
+      <obj_property name="ObjectShortName">o_output_item[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_machine_tb/o_return_coin" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">o_return_coin[9:0]</obj_property>
+      <obj_property name="ObjectShortName">o_return_coin[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_machine_tb/o_current_total" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">o_current_total[31:0]</obj_property>
+      <obj_property name="ObjectShortName">o_current_total[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_machine_tb/Passed" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Passed[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Passed[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_machine_tb/Failed" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Failed[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Failed[31:0]</obj_property>
+   </wvobject>
+</wave_config>

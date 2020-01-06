@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="RF_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="RF_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="67200000fs"></ZoomStartTime>
+      <ZoomEndTime time="90380001fs"></ZoomEndTime>
+      <Cursor1Time time="86500000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="14" />
+   <wvobject db_ref_id="1" fp_name="/RF_tb/reset_n" type="logic">
+      <obj_property name="ElementShortName">reset_n</obj_property>
+      <obj_property name="ObjectShortName">reset_n</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/write" type="logic">
+      <obj_property name="ElementShortName">write</obj_property>
+      <obj_property name="ObjectShortName">write</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/addr" type="array">
+      <obj_property name="ElementShortName">addr[0:2][1:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[0:2][1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/w_data" type="array">
+      <obj_property name="ElementShortName">w_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">w_data[15:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/r_data" type="array">
+      <obj_property name="ElementShortName">r_data[0:1][15:0]</obj_property>
+      <obj_property name="ObjectShortName">r_data[0:1][15:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/Passed" type="array">
+      <obj_property name="ElementShortName">Passed[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Passed[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/Failed" type="array">
+      <obj_property name="ElementShortName">Failed[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Failed[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/n_write" type="array">
+      <obj_property name="ElementShortName">n_write[31:0]</obj_property>
+      <obj_property name="ObjectShortName">n_write[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/n_read" type="array">
+      <obj_property name="ElementShortName">n_read[31:0]</obj_property>
+      <obj_property name="ObjectShortName">n_read[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/n_sync" type="array">
+      <obj_property name="ElementShortName">n_sync[31:0]</obj_property>
+      <obj_property name="ObjectShortName">n_sync[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/regs" type="array">
+      <obj_property name="ElementShortName">regs[63:0]</obj_property>
+      <obj_property name="ObjectShortName">regs[63:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/RF_tb/reg_wires" type="array">
+      <obj_property name="ElementShortName">reg_wires[3:0][15:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_wires[3:0][15:0]</obj_property>
+   </wvobject>
+</wave_config>

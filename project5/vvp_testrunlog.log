@@ -1,0 +1,143 @@
+Compiling VVP ...
+ ... VVP file version 0.9.7  (v0_9_7)
+Compile cleanup...
+ ...      246 functors (net_fun pool=0 bytes)
+                 27 logic
+                  0 bufif
+                  1 resolv
+                171 signals
+ ...     3218 opcodes (98304 bytes)
+ ...      282 nets
+ ...      246 vvp_nets (1048560 bytes)
+ ...        0 arrays (0 words)
+ ...        6 memories
+                  6 logic (484 words)
+                  0 real (0 words)
+ ...       27 scopes
+ ... 0 seconds, 17892.0/4504.0/2048.0 KBytes size/rss/shared
+Running ...
+Test #  1-1 has been succeeded
+Test #  1-1 has been succeeded
+Test #  1-2 has been succeeded
+Test #  1-2 has been succeeded
+Test #  1-3 has been succeeded
+Test #  1-3 has been succeeded
+Test #  1-4 has been succeeded
+Test #  1-4 has been succeeded
+Test #  2-1 has been succeeded
+Test #  2-1 has been succeeded
+Test #  2-2 has been succeeded
+Test #  2-2 has been succeeded
+Test #  3-1 has been succeeded
+Test #  3-1 has been succeeded
+Test #  3-2 has been succeeded
+Test #  3-2 has been succeeded
+Test #  3-3 has been succeeded
+Test #  3-3 has been succeeded
+Test #  4-1 has been succeeded
+Test #  4-1 has been succeeded
+Test #  4-2 has been succeeded
+Test #  4-2 has been succeeded
+Test #  4-3 has been succeeded
+Test #  4-3 has been succeeded
+Test #  5-1 has been succeeded
+Test #  5-1 has been succeeded
+Test #  5-2 has been succeeded
+Test #  5-2 has been succeeded
+Test #  5-3 has been succeeded
+Test #  5-3 has been succeeded
+Test #  5-4 has been succeeded
+Test #  5-4 has been succeeded
+Test #  5-5 has been succeeded
+Test #  5-5 has been succeeded
+Test #  5-6 has been succeeded
+Test #  5-6 has been succeeded
+Test #  6-1 has been succeeded
+Test #  6-1 has been succeeded
+Test #  6-2 has been succeeded
+Test #  6-2 has been succeeded
+Test #  6-3 has been succeeded
+Test #  6-3 has been succeeded
+Test #  7-1 has been succeeded
+Test #  7-1 has been succeeded
+Test #  7-2 has been succeeded
+Test #  7-2 has been succeeded
+Test #  7-3 has been succeeded
+Test #  7-3 has been succeeded
+Test #  8-1 has been succeeded
+Test #  8-1 has been succeeded
+Test #  8-2 has been succeeded
+Test #  8-2 has been succeeded
+Test #  8-3 has been succeeded
+Test #  8-3 has been succeeded
+Test #  9-1 has been succeeded
+Test #  9-1 has been succeeded
+Test #  9-2 has been succeeded
+Test #  9-2 has been succeeded
+Test #  9-3 has been succeeded
+Test #  9-3 has been succeeded
+Test # 10-1 has been succeeded
+Test # 10-1 has been succeeded
+Test # 10-2 has been succeeded
+Test # 10-2 has been succeeded
+Test # 10-3 has been succeeded
+Test # 10-3 has been succeeded
+Test # 11-1 has been succeeded
+Test # 11-1 has been succeeded
+Test # 11-2 has been succeeded
+Test # 11-2 has been succeeded
+Test # 11-3 has been succeeded
+Test # 11-3 has been succeeded
+Test # 12-1 has been succeeded
+Test # 12-1 has been succeeded
+Test # 12-2 has been succeeded
+Test # 12-2 has been succeeded
+Test # 13-1 has been succeeded
+Test # 13-1 has been succeeded
+Test # 13-2 has been succeeded
+Test # 13-2 has been succeeded
+Test # 14-1 has been succeeded
+Test # 14-1 has been succeeded
+Test # 14-2 has been succeeded
+Test # 14-2 has been succeeded
+Test # 15-1 has been succeeded
+Test # 15-1 has been succeeded
+Test # 15-2 has been succeeded
+Test # 15-2 has been succeeded
+Test # 16-1 has been succeeded
+Test # 16-1 has been succeeded
+Test # 16-2 has been succeeded
+Test # 16-2 has been succeeded
+Test # 17-1 has been succeeded
+Test # 17-1 has been succeeded
+Test # 17-2 has been succeeded
+Test # 17-2 has been succeeded
+Test # 17-3 has been succeeded
+Test # 17-3 has been succeeded
+Test # 18-1 has been succeeded
+Test # 18-1 has been succeeded
+Test # 18-2 has been succeeded
+Test # 18-2 has been succeeded
+Test # 18-3 has been succeeded
+Test # 18-3 has been succeeded
+Test # 19-1 has been succeeded
+Test # 19-1 has been succeeded
+Test # 19-2 has been succeeded
+Test # 19-2 has been succeeded
+Test # 19-3 has been succeeded
+Test # 19-3 has been succeeded
+Test #   20 has been succeeded
+Test #   20 has been succeeded
+Clock # 3489
+The testbench is finished. Summarizing...
+All Pass!
+ ... 0.171875 seconds, 17892.0/4672.0/2212.0 KBytes size/rss/shared
+Event counts:
+        8212 time steps (pool=128)
+       34767 thread schedule events
+       22858 assign events
+             ...assign(vec4) pool=9362
+             ...assign(vec8) pool=204
+             ...assign(real) pool=256
+             ...assign(word) pool=512
+       59163 other events (pool=4096)

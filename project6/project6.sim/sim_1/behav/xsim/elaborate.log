@@ -1,0 +1,34 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: P:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto d6b8207d22014497b50461ebb2bcb0c3 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot cpu_TB_behav xil_defaultlib.cpu_TB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.REG_PIPELINE_IF_ID
+Compiling module xil_defaultlib.REG_PIPELINE_ID_EX
+Compiling module xil_defaultlib.REG_PIPELINE_EX_MEM
+Compiling module xil_defaultlib.REG_PIPELINE_MEM_WB
+Compiling module xil_defaultlib.Memcontroller
+Compiling module xil_defaultlib.ADD16
+Compiling module xil_defaultlib.predictor
+Compiling module xil_defaultlib.branchpredictor
+Compiling module xil_defaultlib.Latch16
+Compiling module xil_defaultlib.Control_Unit
+Compiling module xil_defaultlib.MUX16_4_1
+Compiling module xil_defaultlib.RF
+Compiling module xil_defaultlib.SIGN_EXTEND8_16
+Compiling module xil_defaultlib.ID
+Compiling module xil_defaultlib.forwardunit
+Compiling module xil_defaultlib.MUX16_2_1
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.MUX2_3_1
+Compiling module xil_defaultlib.EX
+Compiling module xil_defaultlib.pipelinecontroller
+Compiling module xil_defaultlib.cpu
+Compiling module xil_defaultlib.Memory
+Compiling module xil_defaultlib.cpu_TB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cpu_TB_behav

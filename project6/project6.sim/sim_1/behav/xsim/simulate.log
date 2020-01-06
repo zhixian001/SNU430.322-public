@@ -1,0 +1,6 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Clock # 1423
+The testbench is finished. Summarizing...
+All Pass!
+$finish called at time : 142450 ns : File "C:/Users/Yeom/projects/SNU430.322/project6/project6.srcs/sim_1/imports/project6_files/cpu_TB.v" Line 184

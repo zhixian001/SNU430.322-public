@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DARoots Version="1" Minor="26">
+  <FileSet Name="sim_1" Type="SimulationSrcs" RelSrcDir="$PSRCDIR/sim_1">
+    <File Path="$PSRCDIR/sim_1/imports/Lab01_ALU/ALU_TB.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Lab01_ALU/ALU_TB.v"/>
+        <Attr Name="ImportTime" Val="1552237010"/>
+        <Attr Name="UsedInSynthesis" Val="1"/>
+        <Attr Name="UsedInImplementation" Val="1"/>
+        <Attr Name="UsedInSimulation" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="ALU_tb"/>
+      <Option Name="TopLib" Val="work"/>
+      <Option Name="TopRTLFile" Val="$PSRCDIR/sim_1/imports/Lab01_ALU/ALU_TB.v"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+      <Option Name="SimMode" Val="post-implementation"/>
+      <Option Name="SrcSet" Val="sources_1"/>
+    </Config>
+  </FileSet>
+</DARoots>

@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/e6abbc9a/
+TSCvm	..\\tscvm.py	/^class TSCvm:$/;"	kind:class	line:130
+__init__	..\\tscvm.py	/^    def __init__(self):$/;"	kind:member	line:131
+_addPC	..\\tscvm.py	/^    def _addPC(self):$/;"	kind:member	line:316
+_branchPC	..\\tscvm.py	/^    def _branchPC(self, branchaddr):$/;"	kind:member	line:325
+_jumpPC	..\\tscvm.py	/^    def _jumpPC(self, addr):$/;"	kind:member	line:320
+_readDataMemory	..\\tscvm.py	/^    def _readDataMemory(self, address):$/;"	kind:member	line:309
+_readRegfile	..\\tscvm.py	/^    def _readRegfile(self, address):$/;"	kind:member	line:306
+_writeDataMemory	..\\tscvm.py	/^    def _writeDataMemory(self, address, value):$/;"	kind:member	line:312
+_writeRegfile	..\\tscvm.py	/^    def _writeRegfile(self, address, value):$/;"	kind:member	line:303
+bin16decode	..\\tschelper.py	/^def bin16decode(binval):$/;"	kind:function	line:27
+bin16decode	..\\tscvm.py	/^def bin16decode(binval):$/;"	kind:function	line:27
+execute	..\\tscvm.py	/^    def execute(self):$/;"	kind:member	line:147
+hex2bin	..\\tschelper.py	/^def hex2bin(value):$/;"	kind:function	line:5
+hex2bin	..\\tscvm.py	/^def hex2bin(value):$/;"	kind:function	line:5
+hex2tsc	..\\tschelper.py	/^def hex2tsc(value):$/;"	kind:function	line:125
+hex2tsc	..\\tscvm.py	/^def hex2tsc(value):$/;"	kind:function	line:127
+hw5_memory	..\\tschelper.py	/^    hw5_memory =  ["9023", "1", "ffff", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "/;"	kind:variable	line:131
+itypeRegRead	..\\tscvm.py	/^    def itypeRegRead(self, current):$/;"	kind:member	line:296
+itypeRegWrtieAddr	..\\tscvm.py	/^    def itypeRegWrtieAddr(self, current):$/;"	kind:member	line:299
+memaddr	..\\tschelper.py	/^    memaddr = 0$/;"	kind:variable	line:133
+reset	..\\tscvm.py	/^    def reset(self):$/;"	kind:member	line:141
+rtypeRegRead	..\\tscvm.py	/^    def rtypeRegRead(self, current):$/;"	kind:member	line:290
+rtypeRegWrtieAddr	..\\tscvm.py	/^    def rtypeRegWrtieAddr(self, current):$/;"	kind:member	line:293
+signed8conv	..\\tschelper.py	/^def signed8conv(binval):$/;"	kind:function	line:8
+signed8conv	..\\tscvm.py	/^def signed8conv(binval):$/;"	kind:function	line:8
+tschelper.py	..\\tschelper.py	1;"	kind:file	line:1
+tscvm.py	..\\tscvm.py	1;"	kind:file	line:1
+vm	..\\tscvm.py	/^    vm = TSCvm()$/;"	kind:variable	line:343

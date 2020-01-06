@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="cpu_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="cpu_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="21385833333fs"></ZoomStartTime>
+      <ZoomEndTime time="22818833334fs"></ZoomEndTime>
+      <Cursor1Time time="22180000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="226"></NameColumnWidth>
+      <ValueColumnWidth column_width="217"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="36" />
+   <wave_markers>
+      <marker time="23150000000" label="" />
+      <marker time="22450000000" label="" />
+   </wave_markers>
+   <wvobject type="divider" fp_name="divider139">
+      <obj_property name="label">Seq</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/reset_n" type="logic">
+      <obj_property name="ElementShortName">reset_n</obj_property>
+      <obj_property name="ObjectShortName">reset_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider217">
+      <obj_property name="label">States</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/UUT/datapath/out_pc" type="array">
+      <obj_property name="ElementShortName">out_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">out_pc[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFFF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/mPC_current" type="array">
+      <obj_property name="ElementShortName">mPC_current[2:0]</obj_property>
+      <obj_property name="ObjectShortName">mPC_current[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFFF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider395">
+      <obj_property name="label">Intsructions</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/UUT/datapath/out_instreg" type="array">
+      <obj_property name="ElementShortName">out_instreg[15:0]</obj_property>
+      <obj_property name="ObjectShortName">out_instreg[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider142">
+      <obj_property name="label">Output</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/is_halted" type="logic">
+      <obj_property name="ElementShortName">is_halted</obj_property>
+      <obj_property name="ObjectShortName">is_halted</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/num_inst" type="array">
+      <obj_property name="ElementShortName">num_inst[15:0]</obj_property>
+      <obj_property name="ObjectShortName">num_inst[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/output_port" type="array">
+      <obj_property name="ElementShortName">output_port[15:0]</obj_property>
+      <obj_property name="ObjectShortName">output_port[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider148">
+      <obj_property name="label">Memory</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/address" type="array">
+      <obj_property name="ElementShortName">address[15:0]</obj_property>
+      <obj_property name="ObjectShortName">address[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/readM" type="logic">
+      <obj_property name="ElementShortName">readM</obj_property>
+      <obj_property name="ObjectShortName">readM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/inputReady" type="logic">
+      <obj_property name="ElementShortName">inputReady</obj_property>
+      <obj_property name="ObjectShortName">inputReady</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/writeM" type="logic">
+      <obj_property name="ElementShortName">writeM</obj_property>
+      <obj_property name="ObjectShortName">writeM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/data" type="array">
+      <obj_property name="ElementShortName">data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider154">
+      <obj_property name="label">Testbench</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group216" type="group">
+      <obj_property name="label">Testbenches</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/cpu_tb/TestID" type="array">
+         <obj_property name="ElementShortName">TestID[55:0][39:0]</obj_property>
+         <obj_property name="ObjectShortName">TestID[55:0][39:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/TestNumInst" type="array">
+         <obj_property name="ElementShortName">TestNumInst[55:0][15:0]</obj_property>
+         <obj_property name="ObjectShortName">TestNumInst[55:0][15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/TestAns" type="array">
+         <obj_property name="ElementShortName">TestAns[55:0][15:0]</obj_property>
+         <obj_property name="ObjectShortName">TestAns[55:0][15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/TestPassed" type="array">
+         <obj_property name="ElementShortName">TestPassed[55:0]</obj_property>
+         <obj_property name="ObjectShortName">TestPassed[55:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/i" type="array">
+         <obj_property name="ElementShortName">i[15:0]</obj_property>
+         <obj_property name="ObjectShortName">i[15:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider220">
+      <obj_property name="label">ALU Functionality CHK</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group226" type="group">
+      <obj_property name="label">ALU Functions</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/aluopcode" type="array">
+         <obj_property name="ElementShortName">aluopcode[3:0]</obj_property>
+         <obj_property name="ObjectShortName">aluopcode[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/datapath/out_alusrcamux" type="array">
+         <obj_property name="ElementShortName">out_alusrcamux[15:0]</obj_property>
+         <obj_property name="ObjectShortName">out_alusrcamux[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/datapath/out_alusrcbmux" type="array">
+         <obj_property name="ElementShortName">out_alusrcbmux[15:0]</obj_property>
+         <obj_property name="ObjectShortName">out_alusrcbmux[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/datapath/out_alu" type="array">
+         <obj_property name="ElementShortName">out_alu[15:0]</obj_property>
+         <obj_property name="ObjectShortName">out_alu[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/datapath/out_aluout" type="array">
+         <obj_property name="ElementShortName">out_aluout[15:0]</obj_property>
+         <obj_property name="ObjectShortName">out_aluout[15:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider445">
+      <obj_property name="label">Inside Regfile</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/UUT/datapath/regfile/registers" type="array">
+      <obj_property name="ElementShortName">registers[0:3][15:0]</obj_property>
+      <obj_property name="ObjectShortName">registers[0:3][15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0080</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider467">
+      <obj_property name="label">Control Signals</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group480" type="group">
+      <obj_property name="label">Control Sigs</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/pcsource" type="array">
+         <obj_property name="ElementShortName">pcsource[1:0]</obj_property>
+         <obj_property name="ObjectShortName">pcsource[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/alusrcA" type="logic">
+         <obj_property name="ElementShortName">alusrcA</obj_property>
+         <obj_property name="ObjectShortName">alusrcA</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/alusrcB" type="array">
+         <obj_property name="ElementShortName">alusrcB[1:0]</obj_property>
+         <obj_property name="ObjectShortName">alusrcB[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/regwrite" type="logic">
+         <obj_property name="ElementShortName">regwrite</obj_property>
+         <obj_property name="ObjectShortName">regwrite</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/regdst" type="array">
+         <obj_property name="ElementShortName">regdst[1:0]</obj_property>
+         <obj_property name="ObjectShortName">regdst[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/pcwritecond" type="logic">
+         <obj_property name="ElementShortName">pcwritecond</obj_property>
+         <obj_property name="ObjectShortName">pcwritecond</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/pcwrite" type="logic">
+         <obj_property name="ElementShortName">pcwrite</obj_property>
+         <obj_property name="ObjectShortName">pcwrite</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/iord" type="logic">
+         <obj_property name="ElementShortName">iord</obj_property>
+         <obj_property name="ObjectShortName">iord</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/memread" type="logic">
+         <obj_property name="ElementShortName">memread</obj_property>
+         <obj_property name="ObjectShortName">memread</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/memwrite" type="logic">
+         <obj_property name="ElementShortName">memwrite</obj_property>
+         <obj_property name="ObjectShortName">memwrite</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/memtoreg" type="logic">
+         <obj_property name="ElementShortName">memtoreg</obj_property>
+         <obj_property name="ObjectShortName">memtoreg</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/irwrite" type="logic">
+         <obj_property name="ElementShortName">irwrite</obj_property>
+         <obj_property name="ObjectShortName">irwrite</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/alusrcA" type="logic">
+      <obj_property name="ElementShortName">alusrcA</obj_property>
+      <obj_property name="ObjectShortName">alusrcA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/UUT/controlunit/mcRom/alusrcB" type="array">
+      <obj_property name="ElementShortName">alusrcB[1:0]</obj_property>
+      <obj_property name="ObjectShortName">alusrcB[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider483">
+      <obj_property name="label">Microcodes</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/UUT/controlunit/itypeoperand" type="logic">
+      <obj_property name="ElementShortName">itypeoperand</obj_property>
+      <obj_property name="ObjectShortName">itypeoperand</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/addpcimm2aluout" type="logic">
+      <obj_property name="ElementShortName">addpcimm2aluout</obj_property>
+      <obj_property name="ObjectShortName">addpcimm2aluout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/meminstread" type="logic">
+      <obj_property name="ElementShortName">meminstread</obj_property>
+      <obj_property name="ObjectShortName">meminstread</obj_property>
+   </wvobject>
+   <wvobject fp_name="group499" type="group">
+      <obj_property name="label">Microcodes</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/pcadd12pc" type="logic">
+         <obj_property name="ElementShortName">pcadd12pc</obj_property>
+         <obj_property name="ObjectShortName">pcadd12pc</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/conditionalpc" type="logic">
+         <obj_property name="ElementShortName">conditionalpc</obj_property>
+         <obj_property name="ObjectShortName">conditionalpc</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/alu2pc" type="logic">
+         <obj_property name="ElementShortName">alu2pc</obj_property>
+         <obj_property name="ObjectShortName">alu2pc</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/concat2pc" type="logic">
+         <obj_property name="ElementShortName">concat2pc</obj_property>
+         <obj_property name="ObjectShortName">concat2pc</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/addpcimm2aluout" type="logic">
+         <obj_property name="ElementShortName">addpcimm2aluout</obj_property>
+         <obj_property name="ObjectShortName">addpcimm2aluout</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/meminstread" type="logic">
+         <obj_property name="ElementShortName">meminstread</obj_property>
+         <obj_property name="ObjectShortName">meminstread</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/readmemory2mdr" type="logic">
+         <obj_property name="ElementShortName">readmemory2mdr</obj_property>
+         <obj_property name="ObjectShortName">readmemory2mdr</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/writedatamemory" type="logic">
+         <obj_property name="ElementShortName">writedatamemory</obj_property>
+         <obj_property name="ObjectShortName">writedatamemory</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/aluout2regrd" type="logic">
+         <obj_property name="ElementShortName">aluout2regrd</obj_property>
+         <obj_property name="ObjectShortName">aluout2regrd</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/aluout2regrt" type="logic">
+         <obj_property name="ElementShortName">aluout2regrt</obj_property>
+         <obj_property name="ObjectShortName">aluout2regrt</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/mdr2regrt" type="logic">
+         <obj_property name="ElementShortName">mdr2regrt</obj_property>
+         <obj_property name="ObjectShortName">mdr2regrt</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/is_halted" type="logic">
+         <obj_property name="ElementShortName">is_halted</obj_property>
+         <obj_property name="ObjectShortName">is_halted</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/jumplink" type="logic">
+         <obj_property name="ElementShortName">jumplink</obj_property>
+         <obj_property name="ObjectShortName">jumplink</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/cpu_tb/UUT/controlunit/mc/alu2pc" type="logic">
+      <obj_property name="ElementShortName">alu2pc</obj_property>
+      <obj_property name="ObjectShortName">alu2pc</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider503">
+      <obj_property name="label">=0</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group581" type="group">
+      <obj_property name="label">PCwrites</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/pcwrite" type="logic">
+         <obj_property name="ElementShortName">pcwrite</obj_property>
+         <obj_property name="ObjectShortName">pcwrite</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/pcwritecond" type="logic">
+         <obj_property name="ElementShortName">pcwritecond</obj_property>
+         <obj_property name="ObjectShortName">pcwritecond</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/bcond" type="logic">
+         <obj_property name="ElementShortName">bcond</obj_property>
+         <obj_property name="ObjectShortName">bcond</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_tb/UUT/controlunit/pclatch" type="logic">
+         <obj_property name="ElementShortName">pclatch</obj_property>
+         <obj_property name="ObjectShortName">pclatch</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>

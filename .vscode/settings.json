@@ -1,0 +1,22 @@
+{
+    // "terminal.integrated.shell.windows": "C://WINDOWS/SYSTEM32/bash.exe",
+    "verilog.linting.linter": "iverilog",
+    "verilog.linting.iverilog.runAtFileLocation": true,
+    "verilog.ctags.path": "ctags",
+    // "verilog.linting.iverilog.arguments": "-Y.v -Iproject3/project3.srcs/sources_1/imports/vending/",
+    "verilog.linting.iverilog.arguments": "-Y.v -Iproject6/project6.srcs/sources_1/imports/project6_files",
+    "editor.snippetSuggestions":"bottom",
+    "search.quickOpen.includeSymbols": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "python.pythonPath": "M:\\Program Files\\Python37\\python.exe"
+}

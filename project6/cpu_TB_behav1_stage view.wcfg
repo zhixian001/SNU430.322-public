@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="cpu_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="cpu_TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="177144729580fs"></ZoomStartTime>
+      <ZoomEndTime time="180871054085fs"></ZoomEndTime>
+      <Cursor1Time time="180250000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="181"></NameColumnWidth>
+      <ValueColumnWidth column_width="81"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="43" />
+   <wave_markers>
+      <marker time="1150000000" label="" />
+      <marker time="1250000000" label="" />
+      <marker time="650000000" label="" />
+      <marker time="1650000000" label="" />
+      <marker time="1750000000" label="" />
+      <marker time="2250000000" label="" />
+      <marker time="2650000000" label="" />
+      <marker time="2750000000" label="" />
+      <marker time="3150000000" label="" />
+      <marker time="3250000000" label="" />
+      <marker time="19150000000" label="" />
+      <marker time="19250000000" label="" />
+      <marker time="19650000000" label="" />
+      <marker time="19750000000" label="" />
+      <marker time="19850000000" label="" />
+      <marker time="19950000000" label="" />
+      <marker time="20450000000" label="" />
+      <marker time="20850000000" label="" />
+      <marker time="20950000000" label="" />
+      <marker time="21050000000" label="" />
+      <marker time="21450000000" label="" />
+      <marker time="21550000000" label="" />
+      <marker time="21650000000" label="" />
+      <marker time="22050000000" label="" />
+      <marker time="22150000000" label="" />
+      <marker time="22550000000" label="" />
+      <marker time="250000000" label="" />
+      <marker time="18650000000" label="" />
+      <marker time="750000000" label="" />
+      <marker time="2150000000" label="" />
+      <marker time="20350000000" label="" />
+      <marker time="18750000000" label="" />
+      <marker time="28350000000" label="" />
+      <marker time="24350000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/cpu_TB/UUT/Reset_N" type="logic">
+      <obj_property name="ElementShortName">Reset_N</obj_property>
+      <obj_property name="ObjectShortName">Reset_N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/is_halted" type="logic">
+      <obj_property name="ElementShortName">is_halted</obj_property>
+      <obj_property name="ObjectShortName">is_halted</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider699">
+      <obj_property name="label">IF</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/current_pc" type="array">
+      <obj_property name="ElementShortName">current_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">current_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/predicted_pc" type="array">
+      <obj_property name="ElementShortName">predicted_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">predicted_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/if_id_reg/instruction" type="array">
+      <obj_property name="ElementShortName">instruction[15:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider706">
+      <obj_property name="label">IF/ID</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/valid_if_id" type="logic">
+      <obj_property name="ElementShortName">valid_if_id</obj_property>
+      <obj_property name="ObjectShortName">valid_if_id</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/enable_if_id" type="logic">
+      <obj_property name="ElementShortName">enable_if_id</obj_property>
+      <obj_property name="ObjectShortName">enable_if_id</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider703">
+      <obj_property name="label">ID</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/id_next_pc" type="array">
+      <obj_property name="ElementShortName">id_next_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">id_next_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/id_instruction" type="array">
+      <obj_property name="ElementShortName">id_instruction[15:0]</obj_property>
+      <obj_property name="ObjectShortName">id_instruction[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#A52A2A</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider1118">
+      <obj_property name="label">Num inst</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/num_inst" type="array">
+      <obj_property name="ElementShortName">num_inst[15:0]</obj_property>
+      <obj_property name="ObjectShortName">num_inst[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider710">
+      <obj_property name="label">ID/EX</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/valid_id_ex" type="logic">
+      <obj_property name="ElementShortName">valid_id_ex</obj_property>
+      <obj_property name="ObjectShortName">valid_id_ex</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/id_ex_reg/enable_id_ex" type="logic">
+      <obj_property name="ElementShortName">enable_id_ex</obj_property>
+      <obj_property name="ObjectShortName">enable_id_ex</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/ex_next_pc" type="array">
+      <obj_property name="ElementShortName">ex_next_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ex_next_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider711">
+      <obj_property name="label">EX</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/ex_stage/out_alu" type="array">
+      <obj_property name="ElementShortName">out_alu[15:0]</obj_property>
+      <obj_property name="ObjectShortName">out_alu[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_branch_condition" type="logic">
+      <obj_property name="ElementShortName">ex_branch_condition</obj_property>
+      <obj_property name="ObjectShortName">ex_branch_condition</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/ex_stage/ex_calculated_next_pc" type="array">
+      <obj_property name="ElementShortName">ex_calculated_next_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ex_calculated_next_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider716">
+      <obj_property name="label">EX/MEM</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/valid_ex_mem" type="logic">
+      <obj_property name="ElementShortName">valid_ex_mem</obj_property>
+      <obj_property name="ObjectShortName">valid_ex_mem</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/enable_ex_mem" type="logic">
+      <obj_property name="ElementShortName">enable_ex_mem</obj_property>
+      <obj_property name="ObjectShortName">enable_ex_mem</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider717">
+      <obj_property name="label">MEM</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/mem_alu_result" type="array">
+      <obj_property name="ElementShortName">mem_alu_result[15:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_alu_result[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider719">
+      <obj_property name="label">MEM/WB</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/mem_wb_reg/valid_mem_wb" type="logic">
+      <obj_property name="ElementShortName">valid_mem_wb</obj_property>
+      <obj_property name="ObjectShortName">valid_mem_wb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/mem_wb_reg/enable_mem_wb" type="logic">
+      <obj_property name="ElementShortName">enable_mem_wb</obj_property>
+      <obj_property name="ObjectShortName">enable_mem_wb</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider720">
+      <obj_property name="label">WB</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/out_memtoreg_mux" type="array">
+      <obj_property name="ElementShortName">out_memtoreg_mux[15:0]</obj_property>
+      <obj_property name="ObjectShortName">out_memtoreg_mux[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/output_port" type="array">
+      <obj_property name="ElementShortName">output_port[15:0]</obj_property>
+      <obj_property name="ObjectShortName">output_port[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0080</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/wb_wb_control_signal[1]" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">[1]</obj_property>
+      <obj_property name="ObjectShortName">[1]</obj_property>
+      <obj_property name="label">RegWrite</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider762">
+      <obj_property name="label">Stall Flush</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group1120" type="group">
+      <obj_property name="label">Pipeline Register Control</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/id_instruction" type="array">
+         <obj_property name="ElementShortName">id_instruction[15:0]</obj_property>
+         <obj_property name="ObjectShortName">id_instruction[15:0]</obj_property>
+         <obj_property name="CustomSignalColor">#A52A2A</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/mem_predict_miss" type="logic">
+         <obj_property name="ElementShortName">mem_predict_miss</obj_property>
+         <obj_property name="ObjectShortName">mem_predict_miss</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/num_stall" type="array">
+         <obj_property name="ElementShortName">num_stall[1:0]</obj_property>
+         <obj_property name="ObjectShortName">num_stall[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/valid_if_id" type="logic">
+         <obj_property name="ElementShortName">valid_if_id</obj_property>
+         <obj_property name="ObjectShortName">valid_if_id</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/valid_id_ex" type="logic">
+         <obj_property name="ElementShortName">valid_id_ex</obj_property>
+         <obj_property name="ObjectShortName">valid_id_ex</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/valid_ex_mem" type="logic">
+         <obj_property name="ElementShortName">valid_ex_mem</obj_property>
+         <obj_property name="ObjectShortName">valid_ex_mem</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/valid_mem_wb" type="logic">
+         <obj_property name="ElementShortName">valid_mem_wb</obj_property>
+         <obj_property name="ObjectShortName">valid_mem_wb</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/hazard_if_id" type="logic">
+         <obj_property name="ElementShortName">hazard_if_id</obj_property>
+         <obj_property name="ObjectShortName">hazard_if_id</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/hazard_if_id_addr" type="array">
+         <obj_property name="ElementShortName">hazard_if_id_addr[1:0]</obj_property>
+         <obj_property name="ObjectShortName">hazard_if_id_addr[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/hazard_id_ex" type="logic">
+         <obj_property name="ElementShortName">hazard_id_ex</obj_property>
+         <obj_property name="ObjectShortName">hazard_id_ex</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/hazard_id_ex_addr" type="array">
+         <obj_property name="ElementShortName">hazard_id_ex_addr[1:0]</obj_property>
+         <obj_property name="ObjectShortName">hazard_id_ex_addr[1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/hazard_ex_mem" type="logic">
+         <obj_property name="ElementShortName">hazard_ex_mem</obj_property>
+         <obj_property name="ObjectShortName">hazard_ex_mem</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/hazard_ex_mem_addr" type="array">
+         <obj_property name="ElementShortName">hazard_ex_mem_addr[1:0]</obj_property>
+         <obj_property name="ObjectShortName">hazard_ex_mem_addr[1:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/num_inst" type="array">
+      <obj_property name="ElementShortName">num_inst[15:0]</obj_property>
+      <obj_property name="ObjectShortName">num_inst[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/TestNumInst" type="array">
+      <obj_property name="ElementShortName">TestNumInst[55:0][15:0]</obj_property>
+      <obj_property name="ObjectShortName">TestNumInst[55:0][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/TestPassed" type="array">
+      <obj_property name="ElementShortName">TestPassed[55:0]</obj_property>
+      <obj_property name="ObjectShortName">TestPassed[55:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/output_port" type="array">
+      <obj_property name="ElementShortName">output_port[15:0]</obj_property>
+      <obj_property name="ObjectShortName">output_port[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/TestAns" type="array">
+      <obj_property name="ElementShortName">TestAns[55:0][15:0]</obj_property>
+      <obj_property name="ObjectShortName">TestAns[55:0][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mem_next_pc_add_1" type="array">
+      <obj_property name="ElementShortName">mem_next_pc_add_1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_next_pc_add_1[15:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="cpu_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="cpu_TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="67391000000fs"></ZoomStartTime>
+      <ZoomEndTime time="70145000001fs"></ZoomEndTime>
+      <Cursor1Time time="67850000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="298"></NameColumnWidth>
+      <ValueColumnWidth column_width="201"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="69" />
+   <wave_markers>
+      <marker time="110850000000" label="" />
+      <marker time="177250000000" label="" />
+      <marker time="178050000000" label="" />
+      <marker time="178850000000" label="" />
+      <marker time="178450000000" label="" />
+      <marker time="177650000000" label="" />
+      <marker time="176850000000" label="" />
+      <marker time="22750000000" label="" />
+      <marker time="23150000000" label="" />
+      <marker time="7850000000" label="" />
+      <marker time="67850000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/cpu_TB/is_halted" type="logic">
+      <obj_property name="ElementShortName">is_halted</obj_property>
+      <obj_property name="ObjectShortName">is_halted</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/reset_n" type="logic">
+      <obj_property name="ElementShortName">reset_n</obj_property>
+      <obj_property name="ObjectShortName">reset_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/i_address" type="array">
+      <obj_property name="ElementShortName">i_address[15:0]</obj_property>
+      <obj_property name="ObjectShortName">i_address[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/pc_to_bp" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">pc_to_bp[15:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_to_bp[15:0]</obj_property>
+      <obj_property name="label">Previous PC</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/i_data" type="array">
+      <obj_property name="ElementShortName">i_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">i_data[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider1812">
+      <obj_property name="label">Prediction</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/predicted_pc_internal" type="array">
+      <obj_property name="ElementShortName">predicted_pc_internal[15:0]</obj_property>
+      <obj_property name="ObjectShortName">predicted_pc_internal[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/predicted_pc_inout" type="array">
+      <obj_property name="ElementShortName">predicted_pc_inout[15:0]</obj_property>
+      <obj_property name="ObjectShortName">predicted_pc_inout[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mem_predict_miss" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">mem_predict_miss</obj_property>
+      <obj_property name="ObjectShortName">mem_predict_miss</obj_property>
+      <obj_property name="label">Memory Stage Misprediction Flag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/predicted_pc" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">predicted_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">predicted_pc[15:0]</obj_property>
+      <obj_property name="label">BP output of PC</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider1819">
+      <obj_property name="label">VALIDITY</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/if_id_reg/id_instruction" type="array">
+      <obj_property name="ElementShortName">id_instruction[15:0]</obj_property>
+      <obj_property name="ObjectShortName">id_instruction[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFFF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/valid_if_id" type="logic">
+      <obj_property name="ElementShortName">valid_if_id</obj_property>
+      <obj_property name="ObjectShortName">valid_if_id</obj_property>
+      <obj_property name="CustomSignalColor">#D2691E</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/valid_id_ex" type="logic">
+      <obj_property name="ElementShortName">valid_id_ex</obj_property>
+      <obj_property name="ObjectShortName">valid_id_ex</obj_property>
+      <obj_property name="CustomSignalColor">#D2691E</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/valid_ex_mem" type="logic">
+      <obj_property name="ElementShortName">valid_ex_mem</obj_property>
+      <obj_property name="ObjectShortName">valid_ex_mem</obj_property>
+      <obj_property name="CustomSignalColor">#D2691E</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/pipeline_controller/valid_mem_wb" type="logic">
+      <obj_property name="ElementShortName">valid_mem_wb</obj_property>
+      <obj_property name="ObjectShortName">valid_mem_wb</obj_property>
+      <obj_property name="CustomSignalColor">#D2691E</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/num_inst" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">num_inst[15:0]</obj_property>
+      <obj_property name="ObjectShortName">num_inst[15:0]</obj_property>
+      <obj_property name="label"># OF INSTRUCTIONS</obj_property>
+      <obj_property name="CustomSignalColor">#808080</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider1824">
+      <obj_property name="label">Internal predictor</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/history_exist_table[179]" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">[179]</obj_property>
+      <obj_property name="ObjectShortName">[179]</obj_property>
+      <obj_property name="label">EXIST 179</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/history_exist_table[179]" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">[179]</obj_property>
+      <obj_property name="ObjectShortName">[179]</obj_property>
+      <obj_property name="label">TAG 179</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_history_table[179]" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">[179][1:0]</obj_property>
+      <obj_property name="ObjectShortName">[179][1:0]</obj_property>
+      <obj_property name="label">History 179</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_target_buffer[179]" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">[179][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[179][15:0]</obj_property>
+      <obj_property name="label">BTB 179</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider4801">
+      <obj_property name="label">ddddsafdfasf</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mem_branch_condition" type="logic">
+      <obj_property name="ElementShortName">mem_branch_condition</obj_property>
+      <obj_property name="ObjectShortName">mem_branch_condition</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mem_pcwritecond" type="logic">
+      <obj_property name="ElementShortName">mem_pcwritecond</obj_property>
+      <obj_property name="ObjectShortName">mem_pcwritecond</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mem_pcwrite" type="logic">
+      <obj_property name="ElementShortName">mem_pcwrite</obj_property>
+      <obj_property name="ObjectShortName">mem_pcwrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mem_predict_miss" type="logic">
+      <obj_property name="ElementShortName">mem_predict_miss</obj_property>
+      <obj_property name="ObjectShortName">mem_predict_miss</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/predicted_pc" type="array">
+      <obj_property name="ElementShortName">predicted_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">predicted_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/ex_mem_reg/mem_calculated_next_pc" type="array">
+      <obj_property name="ElementShortName">mem_calculated_next_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_calculated_next_pc[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/previous_pc" type="array">
+      <obj_property name="ElementShortName">previous_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">previous_pc[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/feedback_pc" type="array">
+      <obj_property name="ElementShortName">feedback_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">feedback_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/current_pc" type="array">
+      <obj_property name="ElementShortName">current_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">current_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mem_next_pc_add_1" type="array">
+      <obj_property name="ElementShortName">mem_next_pc_add_1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_next_pc_add_1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mem_predict_miss" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">mem_predict_miss</obj_property>
+      <obj_property name="ObjectShortName">mem_predict_miss</obj_property>
+      <obj_property name="label">Memory Stage Misprediction Flag</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider1720">
+      <obj_property name="label">sdafasdfasdf</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/previous_pc" type="array">
+      <obj_property name="ElementShortName">previous_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">previous_pc[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/PC/out" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">out[15:0]</obj_property>
+      <obj_property name="label">PC OUTPUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/predicted_pc" type="array">
+      <obj_property name="ElementShortName">predicted_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">predicted_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/history" type="array">
+      <obj_property name="ElementShortName">history[15:0]</obj_property>
+      <obj_property name="ObjectShortName">history[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/mispredict_feedback" type="logic">
+      <obj_property name="ElementShortName">mispredict_feedback</obj_property>
+      <obj_property name="ObjectShortName">mispredict_feedback</obj_property>
+      <obj_property name="CustomSignalColor">#008080</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/predicted_pc_inout" type="array">
+      <obj_property name="ElementShortName">predicted_pc_inout[15:0]</obj_property>
+      <obj_property name="ObjectShortName">predicted_pc_inout[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider1846">
+      <obj_property name="label">PC behav</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/PC/in" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">in[15:0]</obj_property>
+      <obj_property name="ObjectShortName">in[15:0]</obj_property>
+      <obj_property name="label">PC INPUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/PC/enable" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">enable</obj_property>
+      <obj_property name="ObjectShortName">enable</obj_property>
+      <obj_property name="label">PC ENABLE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/previous_pc" type="array">
+      <obj_property name="ElementShortName">previous_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">previous_pc[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/PC/out" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">out[15:0]</obj_property>
+      <obj_property name="label">PC OUTPUT</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider1855">
+      <obj_property name="label">Testings</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/output_port" type="array">
+      <obj_property name="ElementShortName">output_port[15:0]</obj_property>
+      <obj_property name="ObjectShortName">output_port[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/TestPassed" type="array">
+      <obj_property name="ElementShortName">TestPassed[55:0]</obj_property>
+      <obj_property name="ObjectShortName">TestPassed[55:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/TestAns" type="array">
+      <obj_property name="ElementShortName">TestAns[55:0][15:0]</obj_property>
+      <obj_property name="ObjectShortName">TestAns[55:0][15:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider1915">
+      <obj_property name="label">BTB,BHT</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="group4395" type="group">
+      <obj_property name="label">GRP</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/id_instruction" type="array">
+         <obj_property name="ElementShortName">id_instruction[15:0]</obj_property>
+         <obj_property name="ObjectShortName">id_instruction[15:0]</obj_property>
+         <obj_property name="CustomSignalColor">#FFFF00</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/enable_pc" type="logic">
+         <obj_property name="ElementShortName">enable_pc</obj_property>
+         <obj_property name="ObjectShortName">enable_pc</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/mispredict_feedback" type="logic">
+         <obj_property name="ElementShortName">mispredict_feedback</obj_property>
+         <obj_property name="ObjectShortName">mispredict_feedback</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/predicted_pc_inout" type="array">
+         <obj_property name="ElementShortName">predicted_pc_inout[15:0]</obj_property>
+         <obj_property name="ObjectShortName">predicted_pc_inout[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/history" type="array">
+         <obj_property name="ElementShortName">history[15:0]</obj_property>
+         <obj_property name="ObjectShortName">history[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/predicted_pc" type="array">
+         <obj_property name="ElementShortName">predicted_pc[15:0]</obj_property>
+         <obj_property name="ObjectShortName">predicted_pc[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/history_exist_table" type="array">
+         <obj_property name="ElementShortName">history_exist_table[255:0]</obj_property>
+         <obj_property name="ObjectShortName">history_exist_table[255:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_history_table" type="array">
+         <obj_property name="ElementShortName">branch_history_table[0:255][1:0]</obj_property>
+         <obj_property name="ObjectShortName">branch_history_table[0:255][1:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_tags_table" type="array">
+         <obj_property name="ElementShortName">branch_tags_table[255:0]</obj_property>
+         <obj_property name="ObjectShortName">branch_tags_table[255:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_target_buffer" type="array">
+         <obj_property name="ElementShortName">branch_target_buffer[0:255][15:0]</obj_property>
+         <obj_property name="ObjectShortName">branch_target_buffer[0:255][15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/table_prediction_result" type="array">
+         <obj_property name="ElementShortName">table_prediction_result[15:0]</obj_property>
+         <obj_property name="ObjectShortName">table_prediction_result[15:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mem_predict_miss" type="logic">
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="ElementShortName">mem_predict_miss</obj_property>
+         <obj_property name="ObjectShortName">mem_predict_miss</obj_property>
+         <obj_property name="label">Memory Stage Misprediction Flag</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider1645">
+      <obj_property name="label">I ADDRs</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/mispredict_feedback" type="logic">
+      <obj_property name="ElementShortName">mispredict_feedback</obj_property>
+      <obj_property name="ObjectShortName">mispredict_feedback</obj_property>
+      <obj_property name="CustomSignalColor">#008080</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/predicted_pc" type="array">
+      <obj_property name="ElementShortName">predicted_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">predicted_pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/previous_pc" type="array">
+      <obj_property name="ElementShortName">previous_pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">previous_pc[15:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/if_stage_pc_hash" type="array">
+      <obj_property name="ElementShortName">if_stage_pc_hash[7:0]</obj_property>
+      <obj_property name="ObjectShortName">if_stage_pc_hash[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/id_stage_pc_hash" type="array">
+      <obj_property name="ElementShortName">id_stage_pc_hash[7:0]</obj_property>
+      <obj_property name="ObjectShortName">id_stage_pc_hash[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/ex_stage_pc_hash" type="array">
+      <obj_property name="ElementShortName">ex_stage_pc_hash[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ex_stage_pc_hash[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/mem_stage_pc_hash" type="array">
+      <obj_property name="ElementShortName">mem_stage_pc_hash[7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_stage_pc_hash[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/wb_stage_pc_hash" type="array">
+      <obj_property name="ElementShortName">wb_stage_pc_hash[7:0]</obj_property>
+      <obj_property name="ObjectShortName">wb_stage_pc_hash[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_target_buffer[197]" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">[197][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[197][15:0]</obj_property>
+      <obj_property name="label">BTB C5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_history_table[197]" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">[197][1:0]</obj_property>
+      <obj_property name="ObjectShortName">[197][1:0]</obj_property>
+      <obj_property name="label">BHT c5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_target_buffer[182]" type="array">
+      <obj_property name="ElementShortName">[182][15:0]</obj_property>
+      <obj_property name="ObjectShortName">[182][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_history_table[182]" type="array">
+      <obj_property name="ElementShortName">[182][1:0]</obj_property>
+      <obj_property name="ObjectShortName">[182][1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mem_predict_miss" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">mem_predict_miss</obj_property>
+      <obj_property name="ObjectShortName">mem_predict_miss</obj_property>
+      <obj_property name="label">Memory Stage Misprediction Flag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_history_table[197]" type="array">
+      <obj_property name="ElementShortName">[197][1:0]</obj_property>
+      <obj_property name="ObjectShortName">[197][1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_TB/UUT/branch_predictor/mypredictor/branch_history_table[197]" type="array">
+      <obj_property name="ElementShortName">[197][1:0]</obj_property>
+      <obj_property name="ObjectShortName">[197][1:0]</obj_property>
+   </wvobject>
+</wave_config>

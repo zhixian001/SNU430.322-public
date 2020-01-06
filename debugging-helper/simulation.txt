@@ -1,0 +1,1164 @@
+001 	 9023 	 0  :	 JMP	35			# JUMP
+002 	 6000 	 35  :	 LHI	$0,	$0,	0
+003 	 f01c 	 36  :	 WWD	$0			# READVALUE!!!
+004 	 6100 	 37  :	 LHI	$1,	$0,	0
+005 	 f41c 	 38  :	 WWD	$1			# READVALUE!!!
+006 	 6200 	 39  :	 LHI	$2,	$0,	0
+007 	 f81c 	 40  :	 WWD	$2			# READVALUE!!!
+008 	 6300 	 41  :	 LHI	$3,	$0,	0
+009 	 fc1c 	 42  :	 WWD	$3			# READVALUE!!!
+00a 	 4401 	 43  :	 ADI	$0,	$1,	1
+00b 	 f01c 	 44  :	 WWD	$0			# READVALUE!!!
+00c 	 4001 	 45  :	 ADI	$0,	$0,	1
+00d 	 f01c 	 46  :	 WWD	$0			# READVALUE!!!
+00e 	 5901 	 47  :	 ORI	$1,	$2,	1
+00f 	 f41c 	 48  :	 WWD	$1			# READVALUE!!!
+010 	 5502 	 49  :	 ORI	$1,	$1,	2
+011 	 f41c 	 50  :	 WWD	$1			# READVALUE!!!
+012 	 5503 	 51  :	 ORI	$1,	$1,	3
+013 	 f41c 	 52  :	 WWD	$1			# READVALUE!!!
+014 	 f2c0 	 53  :	 ADD	$3,	$0,	$2
+015 	 fc1c 	 54  :	 WWD	$3			# READVALUE!!!
+016 	 f6c0 	 55  :	 ADD	$3,	$1,	$2
+017 	 fc1c 	 56  :	 WWD	$3			# READVALUE!!!
+018 	 f1c0 	 57  :	 ADD	$3,	$0,	$1
+019 	 fc1c 	 58  :	 WWD	$3			# READVALUE!!!
+01a 	 f2c1 	 59  :	 SUB	$3,	$0,	$2
+01b 	 fc1c 	 60  :	 WWD	$3			# READVALUE!!!
+01c 	 f8c1 	 61  :	 SUB	$3,	$2,	$0
+01d 	 fc1c 	 62  :	 WWD	$3			# READVALUE!!!
+01e 	 f6c1 	 63  :	 SUB	$3,	$1,	$2
+01f 	 fc1c 	 64  :	 WWD	$3			# READVALUE!!!
+020 	 f9c1 	 65  :	 SUB	$3,	$2,	$1
+021 	 fc1c 	 66  :	 WWD	$3			# READVALUE!!!
+022 	 f1c1 	 67  :	 SUB	$3,	$0,	$1
+023 	 fc1c 	 68  :	 WWD	$3			# READVALUE!!!
+024 	 f4c1 	 69  :	 SUB	$3,	$1,	$0
+025 	 fc1c 	 70  :	 WWD	$3			# READVALUE!!!
+026 	 f2c2 	 71  :	 AND	$3,	$0,	$2
+027 	 fc1c 	 72  :	 WWD	$3			# READVALUE!!!
+028 	 f6c2 	 73  :	 AND	$3,	$1,	$2
+029 	 fc1c 	 74  :	 WWD	$3			# READVALUE!!!
+02a 	 f1c2 	 75  :	 AND	$3,	$0,	$1
+02b 	 fc1c 	 76  :	 WWD	$3			# READVALUE!!!
+02c 	 f2c3 	 77  :	 ORR	$3,	$0,	$2
+02d 	 fc1c 	 78  :	 WWD	$3			# READVALUE!!!
+02e 	 f6c3 	 79  :	 ORR	$3,	$1,	$2
+02f 	 fc1c 	 80  :	 WWD	$3			# READVALUE!!!
+030 	 f1c3 	 81  :	 ORR	$3,	$0,	$1
+031 	 fc1c 	 82  :	 WWD	$3			# READVALUE!!!
+032 	 f0c4 	 83  :	 NOT	$3,	$0
+033 	 fc1c 	 84  :	 WWD	$3			# READVALUE!!!
+034 	 f4c4 	 85  :	 NOT	$3,	$1
+035 	 fc1c 	 86  :	 WWD	$3			# READVALUE!!!
+036 	 f8c4 	 87  :	 NOT	$3,	$2
+037 	 fc1c 	 88  :	 WWD	$3			# READVALUE!!!
+038 	 f0c5 	 89  :	 TCP	$3,	$0
+039 	 fc1c 	 90  :	 WWD	$3			# READVALUE!!!
+03a 	 f4c5 	 91  :	 TCP	$3,	$1
+03b 	 fc1c 	 92  :	 WWD	$3			# READVALUE!!!
+03c 	 f8c5 	 93  :	 TCP	$3,	$2
+03d 	 fc1c 	 94  :	 WWD	$3			# READVALUE!!!
+03e 	 f0c6 	 95  :	 SHL	$3,	$0
+03f 	 fc1c 	 96  :	 WWD	$3			# READVALUE!!!
+040 	 f4c6 	 97  :	 SHL	$3,	$1
+041 	 fc1c 	 98  :	 WWD	$3			# READVALUE!!!
+042 	 f8c6 	 99  :	 SHL	$3,	$2
+043 	 fc1c 	 100  :	 WWD	$3			# READVALUE!!!
+044 	 f0c7 	 101  :	 SHR	$3,	$0
+045 	 fc1c 	 102  :	 WWD	$3			# READVALUE!!!
+046 	 f4c7 	 103  :	 SHR	$3,	$1
+047 	 fc1c 	 104  :	 WWD	$3			# READVALUE!!!
+048 	 f8c7 	 105  :	 SHR	$3,	$2
+049 	 fc1c 	 106  :	 WWD	$3			# READVALUE!!!
+04a 	 7801 	 107  :	 LWD	$0,	1($2)
+04b 	 f01c 	 108  :	 WWD	$0			# READVALUE!!!
+
+
+04c 	 7902 	 109  :	 LWD	$1,	2($2)
+
+
+
+04d 	 f41c 	 110  :	 WWD	$1			# READVALUE!!!
+04e 	 8901 	 111  :	 SWD	$1,	1($2)
+04f 	 8802 	 112  :	 SWD	$0,	2($2)
+050 	 7801 	 113  :	 LWD	$0,	1($2)
+
+
+051 	 f01c 	 114  :	 WWD	$0			# READVALUE!!!
+052 	 7902 	 115  :	 LWD	$1,	2($2)
+053 	 f41c 	 116  :	 WWD	$1			# READVALUE!!!
+054 	 9076 	 117  :	 JMP	118			# JUMP
+055 	 f01c 	 118  :	 WWD	$0			# READVALUE!!!
+056 	 9079 	 119  :	 JMP	121			# JUMP
+057 	 f41c 	 121  :	 WWD	$1			# READVALUE!!!
+
+
+058 	 b01 	 122  :	 BNE	$2,	$3,	1	# BRANCH
+
+
+
+
+059 	 907d 	 123  :	 JMP	125			# JUMP
+05a 	 f01c 	 125  :	 WWD	$0			# READVALUE!!!
+
+
+05b 	 601 	 126  :	 BNE	$1,	$2,	1	# BRANCH
+
+
+05c 	 f41c 	 128  :	 WWD	$1			# READVALUE!!!
+05d 	 1601 	 129  :	 BEQ	$1,	$2,	1	# BRANCH
+
+
+
+05e 	 9084 	 130  :	 JMP	132			# JUMP
+
+
+05f 	 f01c 	 132  :	 WWD	$0			# READVALUE!!!
+060 	 1b01 	 133  :	 BEQ	$2,	$3,	1	# BRANCH
+061 	 f41c 	 135  :	 WWD	$1			# READVALUE!!!
+062 	 2001 	 136  :	 BGZ	$0,	$0,	1	# BRANCH
+
+여기까진 문제없음 (ffff ,1 ,0,0 이 reg)
+
+063 	 908b 	 137  :	 JMP	139			# JUMP
+
+
+064 	 f01c 	 139  :	 WWD	$0			# READVALUE!!!
+065 	 2401 	 140  :	 BGZ	$1,	$0,	1	# BRANCH
+066 	 f41c 	 142  :	 WWD	$1			# READVALUE!!!
+067 	 2801 	 143  :	 BGZ	$2,	$0,	1	# BRANCH
+068 	 9092 	 144  :	 JMP	146			# JUMP
+069 	 f01c 	 146  :	 WWD	$0			# READVALUE!!!
+06a 	 3001 	 147  :	 BLZ	$0,	$0,	1	# BRANCH
+06b 	 f41c 	 149  :	 WWD	$1			# READVALUE!!!
+06c 	 3401 	 150  :	 BLZ	$1,	$0,	1	# BRANCH
+06d 	 9099 	 151  :	 JMP	153			# JUMP
+06e 	 f01c 	 153  :	 WWD	$0			# READVALUE!!!
+06f 	 3801 	 154  :	 BLZ	$2,	$0,	1	# BRANCH
+070 	 909d 	 155  :	 JMP	157			# JUMP
+071 	 f41c 	 157  :	 WWD	$1			# READVALUE!!!
+072 	 a0af 	 158  :	 JAL	175			# JUMP
+073 	 f819 	 175  :	 JPR	$2			# JUMP REG
+074 	 f01c 	 159  :	 WWD	$0			# READVALUE!!!
+075 	 a0ae 	 160  :	 JAL	174			# JUMP
+
+
+076 	 4a01 	 174  :	 ADI	$2,	$2,	1
+077 	 f819 	 175  :	 JPR	$2			# JUMP REG
+
+
+
+078 	 f41c 	 162  :	 WWD	$1			# READVALUE!!!
+079 	 6300 	 163  :	 LHI	$3,	$0,	0
+
+07a 	 5f03 	 164  :	 ORI	$3,	$3,	3
+07b 	 6000 	 165  :	 LHI	$0,	$0,	0
+07c 	 4005 	 166  :	 ADI	$0,	$0,	5
+07d 	 a0b2 	 167  :	 JAL	178			# JUMP
+07e 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+
+
+
+07f 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+080 	 8e00 	 184  :	 SWD	$2,	0($3)
+081 	 8c01 	 185  :	 SWD	$0,	1($3)
+082 	 4f02 	 186  :	 ADI	$3,	$3,	2
+083 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+084 	 a0b2 	 188  :	 JAL	178			# JUMP
+
+
+
+085 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+086 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+
+
+
+
+
+087 	 8e00 	 184  :	 SWD	$2,	0($3)
+088 	 8c01 	 185  :	 SWD	$0,	1($3)
+
+
+089 	 4f02 	 186  :	 ADI	$3,	$3,	2
+08a 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+08b 	 a0b2 	 188  :	 JAL	178			# JUMP
+
+
+
+08c 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+
+
+08d 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH    
+
+5001 이 8e 이네
+
+//// 찾았다
+
+08e 	 6000 	 180  :	 LHI	$0,	$0,	0
+
+//// 이거다
+
+08f 	 5001 	 181  :	 ORI	$0,	$0,	1
+090 	 f819 	 182  :	 JPR	$2			# JUMP REG
+091 	 7dff 	 189  :	 LWD	$1,	-1($3)
+092 	 8cff 	 190  :	 SWD	$0,	-1($3)
+
+
+
+
+
+093 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+
+
+
+
+094 	 a0b2 	 192  :	 JAL	178			# JUMP
+095 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+096 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+
+
+
+097 	 8e00 	 184  :	 SWD	$2,	0($3)
+
+098 	 8c01 	 185  :	 SWD	$0,	1($3)
+
+
+
+099 	 4f02 	 186  :	 ADI	$3,	$3,	2
+09a 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+09b 	 a0b2 	 188  :	 JAL	178			# JUMP
+09c 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+09d 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+
+
+
+
+
+
+09e 	 6000 	 180  :	 LHI	$0,	$0,	0
+09f 	 5001 	 181  :	 ORI	$0,	$0,	1
+0a0 	 f819 	 182  :	 JPR	$2			# JUMP REG
+0a1 	 7dff 	 189  :	 LWD	$1,	-1($3)
+0a2 	 8cff 	 190  :	 SWD	$0,	-1($3)
+0a3 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+0a4 	 a0b2 	 192  :	 JAL	178			# JUMP
+0a5 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+
+
+
+0a6 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+0a7 	 6000 	 180  :	 LHI	$0,	$0,	0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0a8 	 5001 	 181  :	 ORI	$0,	$0,	1
+0a9 	 f819 	 182  :	 JPR	$2			# JUMP REG
+
+
+
+0aa 	 7dff 	 193  :	 LWD	$1,	-1($3)
+
+
+0ab 	 7efe 	 194  :	 LWD	$2,	-2($3)
+0ac 	 f100 	 195  :	 ADD	$0,	$0,	$1
+0ad 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+
+
+0ae 	 f819 	 197  :	 JPR	$2			# JUMP REG
+
+
+
+0af 	 7dff 	 193  :	 LWD	$1,	-1($3)
+0b0 	 7efe 	 194  :	 LWD	$2,	-2($3)
+0b1 	 f100 	 195  :	 ADD	$0,	$0,	$1
+0b2 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+0b3 	 f819 	 197  :	 JPR	$2			# JUMP REG
+
+
+---점프실수
+
+
+0b4 	 7dff 	 189  :	 LWD	$1,	-1($3)
+
+
+-----
+
+
+0b5 	 8cff 	 190  :	 SWD	$0,	-1($3)
+
+
+
+0b6 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+
+
+0b7 	 a0b2 	 192  :	 JAL	178			# JUMP
+0b8 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0b9 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+
+
+
+0ba 	 8e00 	 184  :	 SWD	$2,	0($3)
+0bb 	 8c01 	 185  :	 SWD	$0,	1($3)
+0bc 	 4f02 	 186  :	 ADI	$3,	$3,	2
+0bd 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+0be 	 a0b2 	 188  :	 JAL	178			# JUMP
+0bf 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+
+
+0c0 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+
+
+0c1 	 8e00 	 184  :	 SWD	$2,	0($3)
+0c2 	 8c01 	 185  :	 SWD	$0,	1($3)
+0c3 	 4f02 	 186  :	 ADI	$3,	$3,	2
+0c4 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+0c5 	 a0b2 	 188  :	 JAL	178			# JUMP
+0c6 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+
+
+0c7 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+
+0c8 	 6000 	 180  :	 LHI	$0,	$0,	0
+
+
+0c9 	 5001 	 181  :	 ORI	$0,	$0,	1
+0ca 	 f819 	 182  :	 JPR	$2			# JUMP REG
+
+
+0cb 	 7dff 	 189  :	 LWD	$1,	-1($3)
+0cc 	 8cff 	 190  :	 SWD	$0,	-1($3)
+0cd 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+0ce 	 a0b2 	 192  :	 JAL	178			# JUMP
+0cf 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+0d0 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+0d1 	 6000 	 180  :	 LHI	$0,	$0,	0
+0d2 	 5001 	 181  :	 ORI	$0,	$0,	1
+0d3 	 f819 	 182  :	 JPR	$2			# JUMP REG
+0d4 	 7dff 	 193  :	 LWD	$1,	-1($3)
+0d5 	 7efe 	 194  :	 LWD	$2,	-2($3)
+0d6 	 f100 	 195  :	 ADD	$0,	$0,	$1
+0d7 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+0d8 	 f819 	 197  :	 JPR	$2			# JUMP REG
+0d9 	 7dff 	 189  :	 LWD	$1,	-1($3)
+0da 	 8cff 	 190  :	 SWD	$0,	-1($3)
+0db 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+0dc 	 a0b2 	 192  :	 JAL	178			# JUMP
+0dd 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+0de 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+0df 	 8e00 	 184  :	 SWD	$2,	0($3)
+0e0 	 8c01 	 185  :	 SWD	$0,	1($3)
+0e1 	 4f02 	 186  :	 ADI	$3,	$3,	2
+
+
+
+0e2 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+0e3 	 a0b2 	 188  :	 JAL	178			# JUMP
+
+
+0e4 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+0e5 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+
+
+0e6 	 6000 	 180  :	 LHI	$0,	$0,	0
+0e7 	 5001 	 181  :	 ORI	$0,	$0,	1
+0e8 	 f819 	 182  :	 JPR	$2			# JUMP REG
+0e9 	 7dff 	 189  :	 LWD	$1,	-1($3)
+0ea 	 8cff 	 190  :	 SWD	$0,	-1($3)
+0eb 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+0ec 	 a0b2 	 192  :	 JAL	178			# JUMP
+0ed 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+0ee 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+0ef 	 8e00 	 184  :	 SWD	$2,	0($3)
+0f0 	 8c01 	 185  :	 SWD	$0,	1($3)
+0f1 	 4f02 	 186  :	 ADI	$3,	$3,	2
+0f2 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+0f3 	 a0b2 	 188  :	 JAL	178			# JUMP
+0f4 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+
+
+
+
+0f5 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+
+
+
+
+
+
+0f6 	 6000 	 180  :	 LHI	$0,	$0,	0
+0f7 	 5001 	 181  :	 ORI	$0,	$0,	1
+0f8 	 f819 	 182  :	 JPR	$2			# JUMP REG
+0f9 	 7dff 	 189  :	 LWD	$1,	-1($3)
+0fa 	 8cff 	 190  :	 SWD	$0,	-1($3)
+0fb 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+0fc 	 a0b2 	 192  :	 JAL	178			# JUMP
+0fd 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+0fe 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+0ff 	 6000 	 180  :	 LHI	$0,	$0,	0
+100 	 5001 	 181  :	 ORI	$0,	$0,	1
+101 	 f819 	 182  :	 JPR	$2			# JUMP REG
+102 	 7dff 	 193  :	 LWD	$1,	-1($3)
+103 	 7efe 	 194  :	 LWD	$2,	-2($3)
+104 	 f100 	 195  :	 ADD	$0,	$0,	$1
+105 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+106 	 f819 	 197  :	 JPR	$2			# JUMP REG
+107 	 7dff 	 193  :	 LWD	$1,	-1($3)
+108 	 7efe 	 194  :	 LWD	$2,	-2($3)
+109 	 f100 	 195  :	 ADD	$0,	$0,	$1
+10a 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+10b 	 f819 	 197  :	 JPR	$2			# JUMP REG
+10c 	 7dff 	 193  :	 LWD	$1,	-1($3)
+10d 	 7efe 	 194  :	 LWD	$2,	-2($3)
+10e 	 f100 	 195  :	 ADD	$0,	$0,	$1
+10f 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+110 	 f819 	 197  :	 JPR	$2			# JUMP REG
+111 	 7dff 	 193  :	 LWD	$1,	-1($3)
+112 	 7efe 	 194  :	 LWD	$2,	-2($3)
+113 	 f100 	 195  :	 ADD	$0,	$0,	$1
+114 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+115 	 f819 	 197  :	 JPR	$2			# JUMP REG
+116 	 f01c 	 168  :	 WWD	$0			# READVALUE!!!
+117 	 90b1 	 169  :	 JMP	177			# JUMP
+118 	 a0aa 	 177  :	 JAL	170			# JUMP
+119 	 4900 	 170  :	 ADI	$1,	$2,	0
+11a 	 f41a 	 171  :	 JRL	$1			# JUMP REG
+11b 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+11c 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+11d 	 8e00 	 184  :	 SWD	$2,	0($3)
+11e 	 8c01 	 185  :	 SWD	$0,	1($3)
+11f 	 4f02 	 186  :	 ADI	$3,	$3,	2
+120 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+121 	 a0b2 	 188  :	 JAL	178			# JUMP
+122 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+123 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+124 	 8e00 	 184  :	 SWD	$2,	0($3)
+125 	 8c01 	 185  :	 SWD	$0,	1($3)
+126 	 4f02 	 186  :	 ADI	$3,	$3,	2
+127 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+128 	 a0b2 	 188  :	 JAL	178			# JUMP
+129 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+12a 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+12b 	 8e00 	 184  :	 SWD	$2,	0($3)
+12c 	 8c01 	 185  :	 SWD	$0,	1($3)
+12d 	 4f02 	 186  :	 ADI	$3,	$3,	2
+12e 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+12f 	 a0b2 	 188  :	 JAL	178			# JUMP
+130 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+131 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+132 	 8e00 	 184  :	 SWD	$2,	0($3)
+133 	 8c01 	 185  :	 SWD	$0,	1($3)
+134 	 4f02 	 186  :	 ADI	$3,	$3,	2
+135 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+136 	 a0b2 	 188  :	 JAL	178			# JUMP
+137 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+138 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+139 	 6000 	 180  :	 LHI	$0,	$0,	0
+13a 	 5001 	 181  :	 ORI	$0,	$0,	1
+13b 	 f819 	 182  :	 JPR	$2			# JUMP REG
+13c 	 7dff 	 189  :	 LWD	$1,	-1($3)
+13d 	 8cff 	 190  :	 SWD	$0,	-1($3)
+13e 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+13f 	 a0b2 	 192  :	 JAL	178			# JUMP
+140 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+141 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+142 	 6000 	 180  :	 LHI	$0,	$0,	0
+143 	 5001 	 181  :	 ORI	$0,	$0,	1
+144 	 f819 	 182  :	 JPR	$2			# JUMP REG
+145 	 7dff 	 193  :	 LWD	$1,	-1($3)
+146 	 7efe 	 194  :	 LWD	$2,	-2($3)
+147 	 f100 	 195  :	 ADD	$0,	$0,	$1
+148 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+149 	 f819 	 197  :	 JPR	$2			# JUMP REG
+14a 	 7dff 	 189  :	 LWD	$1,	-1($3)
+14b 	 8cff 	 190  :	 SWD	$0,	-1($3)
+14c 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+14d 	 a0b2 	 192  :	 JAL	178			# JUMP
+14e 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+14f 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+150 	 8e00 	 184  :	 SWD	$2,	0($3)
+151 	 8c01 	 185  :	 SWD	$0,	1($3)
+152 	 4f02 	 186  :	 ADI	$3,	$3,	2
+153 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+154 	 a0b2 	 188  :	 JAL	178			# JUMP
+155 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+156 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+157 	 6000 	 180  :	 LHI	$0,	$0,	0
+158 	 5001 	 181  :	 ORI	$0,	$0,	1
+159 	 f819 	 182  :	 JPR	$2			# JUMP REG
+15a 	 7dff 	 189  :	 LWD	$1,	-1($3)
+15b 	 8cff 	 190  :	 SWD	$0,	-1($3)
+15c 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+15d 	 a0b2 	 192  :	 JAL	178			# JUMP
+15e 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+15f 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+160 	 8e00 	 184  :	 SWD	$2,	0($3)
+161 	 8c01 	 185  :	 SWD	$0,	1($3)
+162 	 4f02 	 186  :	 ADI	$3,	$3,	2
+163 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+164 	 a0b2 	 188  :	 JAL	178			# JUMP
+165 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+166 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+167 	 6000 	 180  :	 LHI	$0,	$0,	0
+168 	 5001 	 181  :	 ORI	$0,	$0,	1
+169 	 f819 	 182  :	 JPR	$2			# JUMP REG
+16a 	 7dff 	 189  :	 LWD	$1,	-1($3)
+16b 	 8cff 	 190  :	 SWD	$0,	-1($3)
+16c 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+16d 	 a0b2 	 192  :	 JAL	178			# JUMP
+16e 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+16f 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+170 	 6000 	 180  :	 LHI	$0,	$0,	0
+171 	 5001 	 181  :	 ORI	$0,	$0,	1
+172 	 f819 	 182  :	 JPR	$2			# JUMP REG
+173 	 7dff 	 193  :	 LWD	$1,	-1($3)
+174 	 7efe 	 194  :	 LWD	$2,	-2($3)
+175 	 f100 	 195  :	 ADD	$0,	$0,	$1
+176 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+177 	 f819 	 197  :	 JPR	$2			# JUMP REG
+178 	 7dff 	 193  :	 LWD	$1,	-1($3)
+179 	 7efe 	 194  :	 LWD	$2,	-2($3)
+17a 	 f100 	 195  :	 ADD	$0,	$0,	$1
+17b 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+17c 	 f819 	 197  :	 JPR	$2			# JUMP REG
+17d 	 7dff 	 193  :	 LWD	$1,	-1($3)
+17e 	 7efe 	 194  :	 LWD	$2,	-2($3)
+17f 	 f100 	 195  :	 ADD	$0,	$0,	$1
+180 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+181 	 f819 	 197  :	 JPR	$2			# JUMP REG
+182 	 7dff 	 189  :	 LWD	$1,	-1($3)
+183 	 8cff 	 190  :	 SWD	$0,	-1($3)
+184 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+185 	 a0b2 	 192  :	 JAL	178			# JUMP
+186 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+187 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+188 	 8e00 	 184  :	 SWD	$2,	0($3)
+189 	 8c01 	 185  :	 SWD	$0,	1($3)
+18a 	 4f02 	 186  :	 ADI	$3,	$3,	2
+18b 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+18c 	 a0b2 	 188  :	 JAL	178			# JUMP
+18d 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+18e 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+18f 	 8e00 	 184  :	 SWD	$2,	0($3)
+190 	 8c01 	 185  :	 SWD	$0,	1($3)
+191 	 4f02 	 186  :	 ADI	$3,	$3,	2
+192 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+193 	 a0b2 	 188  :	 JAL	178			# JUMP
+194 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+195 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+196 	 6000 	 180  :	 LHI	$0,	$0,	0
+197 	 5001 	 181  :	 ORI	$0,	$0,	1
+198 	 f819 	 182  :	 JPR	$2			# JUMP REG
+199 	 7dff 	 189  :	 LWD	$1,	-1($3)
+19a 	 8cff 	 190  :	 SWD	$0,	-1($3)
+19b 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+19c 	 a0b2 	 192  :	 JAL	178			# JUMP
+19d 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+19e 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+19f 	 8e00 	 184  :	 SWD	$2,	0($3)
+1a0 	 8c01 	 185  :	 SWD	$0,	1($3)
+1a1 	 4f02 	 186  :	 ADI	$3,	$3,	2
+1a2 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+1a3 	 a0b2 	 188  :	 JAL	178			# JUMP
+1a4 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+1a5 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+1a6 	 6000 	 180  :	 LHI	$0,	$0,	0
+1a7 	 5001 	 181  :	 ORI	$0,	$0,	1
+1a8 	 f819 	 182  :	 JPR	$2			# JUMP REG
+1a9 	 7dff 	 189  :	 LWD	$1,	-1($3)
+1aa 	 8cff 	 190  :	 SWD	$0,	-1($3)
+1ab 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+1ac 	 a0b2 	 192  :	 JAL	178			# JUMP
+1ad 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+1ae 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+1af 	 6000 	 180  :	 LHI	$0,	$0,	0
+1b0 	 5001 	 181  :	 ORI	$0,	$0,	1
+1b1 	 f819 	 182  :	 JPR	$2			# JUMP REG
+1b2 	 7dff 	 193  :	 LWD	$1,	-1($3)
+1b3 	 7efe 	 194  :	 LWD	$2,	-2($3)
+1b4 	 f100 	 195  :	 ADD	$0,	$0,	$1
+1b5 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+1b6 	 f819 	 197  :	 JPR	$2			# JUMP REG
+1b7 	 7dff 	 193  :	 LWD	$1,	-1($3)
+1b8 	 7efe 	 194  :	 LWD	$2,	-2($3)
+1b9 	 f100 	 195  :	 ADD	$0,	$0,	$1
+1ba 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+1bb 	 f819 	 197  :	 JPR	$2			# JUMP REG
+1bc 	 7dff 	 189  :	 LWD	$1,	-1($3)
+1bd 	 8cff 	 190  :	 SWD	$0,	-1($3)
+1be 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+1bf 	 a0b2 	 192  :	 JAL	178			# JUMP
+1c0 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+1c1 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+1c2 	 8e00 	 184  :	 SWD	$2,	0($3)
+1c3 	 8c01 	 185  :	 SWD	$0,	1($3)
+1c4 	 4f02 	 186  :	 ADI	$3,	$3,	2
+1c5 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+1c6 	 a0b2 	 188  :	 JAL	178			# JUMP
+1c7 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+1c8 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+1c9 	 8e00 	 184  :	 SWD	$2,	0($3)
+1ca 	 8c01 	 185  :	 SWD	$0,	1($3)
+1cb 	 4f02 	 186  :	 ADI	$3,	$3,	2
+1cc 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+1cd 	 a0b2 	 188  :	 JAL	178			# JUMP
+1ce 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+1cf 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+1d0 	 6000 	 180  :	 LHI	$0,	$0,	0
+1d1 	 5001 	 181  :	 ORI	$0,	$0,	1
+1d2 	 f819 	 182  :	 JPR	$2			# JUMP REG
+1d3 	 7dff 	 189  :	 LWD	$1,	-1($3)
+1d4 	 8cff 	 190  :	 SWD	$0,	-1($3)
+1d5 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+1d6 	 a0b2 	 192  :	 JAL	178			# JUMP
+1d7 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+1d8 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+1d9 	 6000 	 180  :	 LHI	$0,	$0,	0
+1da 	 5001 	 181  :	 ORI	$0,	$0,	1
+1db 	 f819 	 182  :	 JPR	$2			# JUMP REG
+1dc 	 7dff 	 193  :	 LWD	$1,	-1($3)
+1dd 	 7efe 	 194  :	 LWD	$2,	-2($3)
+1de 	 f100 	 195  :	 ADD	$0,	$0,	$1
+1df 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+1e0 	 f819 	 197  :	 JPR	$2			# JUMP REG
+1e1 	 7dff 	 189  :	 LWD	$1,	-1($3)
+1e2 	 8cff 	 190  :	 SWD	$0,	-1($3)
+1e3 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+1e4 	 a0b2 	 192  :	 JAL	178			# JUMP
+1e5 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+1e6 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+1e7 	 8e00 	 184  :	 SWD	$2,	0($3)
+1e8 	 8c01 	 185  :	 SWD	$0,	1($3)
+1e9 	 4f02 	 186  :	 ADI	$3,	$3,	2
+1ea 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+1eb 	 a0b2 	 188  :	 JAL	178			# JUMP
+1ec 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+1ed 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+1ee 	 6000 	 180  :	 LHI	$0,	$0,	0
+1ef 	 5001 	 181  :	 ORI	$0,	$0,	1
+1f0 	 f819 	 182  :	 JPR	$2			# JUMP REG
+1f1 	 7dff 	 189  :	 LWD	$1,	-1($3)
+1f2 	 8cff 	 190  :	 SWD	$0,	-1($3)
+1f3 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+1f4 	 a0b2 	 192  :	 JAL	178			# JUMP
+1f5 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+1f6 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+1f7 	 8e00 	 184  :	 SWD	$2,	0($3)
+1f8 	 8c01 	 185  :	 SWD	$0,	1($3)
+1f9 	 4f02 	 186  :	 ADI	$3,	$3,	2
+1fa 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+1fb 	 a0b2 	 188  :	 JAL	178			# JUMP
+1fc 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+1fd 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+1fe 	 6000 	 180  :	 LHI	$0,	$0,	0
+1ff 	 5001 	 181  :	 ORI	$0,	$0,	1
+200 	 f819 	 182  :	 JPR	$2			# JUMP REG
+201 	 7dff 	 189  :	 LWD	$1,	-1($3)
+202 	 8cff 	 190  :	 SWD	$0,	-1($3)
+203 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+204 	 a0b2 	 192  :	 JAL	178			# JUMP
+205 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+206 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+207 	 6000 	 180  :	 LHI	$0,	$0,	0
+208 	 5001 	 181  :	 ORI	$0,	$0,	1
+209 	 f819 	 182  :	 JPR	$2			# JUMP REG
+20a 	 7dff 	 193  :	 LWD	$1,	-1($3)
+20b 	 7efe 	 194  :	 LWD	$2,	-2($3)
+20c 	 f100 	 195  :	 ADD	$0,	$0,	$1
+20d 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+20e 	 f819 	 197  :	 JPR	$2			# JUMP REG
+20f 	 7dff 	 193  :	 LWD	$1,	-1($3)
+210 	 7efe 	 194  :	 LWD	$2,	-2($3)
+211 	 f100 	 195  :	 ADD	$0,	$0,	$1
+212 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+213 	 f819 	 197  :	 JPR	$2			# JUMP REG
+214 	 7dff 	 193  :	 LWD	$1,	-1($3)
+215 	 7efe 	 194  :	 LWD	$2,	-2($3)
+216 	 f100 	 195  :	 ADD	$0,	$0,	$1
+217 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+218 	 f819 	 197  :	 JPR	$2			# JUMP REG
+219 	 7dff 	 193  :	 LWD	$1,	-1($3)
+21a 	 7efe 	 194  :	 LWD	$2,	-2($3)
+21b 	 f100 	 195  :	 ADD	$0,	$0,	$1
+21c 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+21d 	 f819 	 197  :	 JPR	$2			# JUMP REG
+21e 	 7dff 	 193  :	 LWD	$1,	-1($3)
+21f 	 7efe 	 194  :	 LWD	$2,	-2($3)
+220 	 f100 	 195  :	 ADD	$0,	$0,	$1
+221 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+222 	 f819 	 197  :	 JPR	$2			# JUMP REG
+223 	 7dff 	 189  :	 LWD	$1,	-1($3)
+224 	 8cff 	 190  :	 SWD	$0,	-1($3)
+225 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+226 	 a0b2 	 192  :	 JAL	178			# JUMP
+227 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+228 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+229 	 8e00 	 184  :	 SWD	$2,	0($3)
+22a 	 8c01 	 185  :	 SWD	$0,	1($3)
+22b 	 4f02 	 186  :	 ADI	$3,	$3,	2
+22c 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+22d 	 a0b2 	 188  :	 JAL	178			# JUMP
+22e 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+22f 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+230 	 8e00 	 184  :	 SWD	$2,	0($3)
+231 	 8c01 	 185  :	 SWD	$0,	1($3)
+232 	 4f02 	 186  :	 ADI	$3,	$3,	2
+233 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+234 	 a0b2 	 188  :	 JAL	178			# JUMP
+235 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+236 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+237 	 8e00 	 184  :	 SWD	$2,	0($3)
+238 	 8c01 	 185  :	 SWD	$0,	1($3)
+239 	 4f02 	 186  :	 ADI	$3,	$3,	2
+23a 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+23b 	 a0b2 	 188  :	 JAL	178			# JUMP
+23c 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+23d 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+23e 	 6000 	 180  :	 LHI	$0,	$0,	0
+23f 	 5001 	 181  :	 ORI	$0,	$0,	1
+240 	 f819 	 182  :	 JPR	$2			# JUMP REG
+241 	 7dff 	 189  :	 LWD	$1,	-1($3)
+242 	 8cff 	 190  :	 SWD	$0,	-1($3)
+243 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+244 	 a0b2 	 192  :	 JAL	178			# JUMP
+245 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+246 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+247 	 8e00 	 184  :	 SWD	$2,	0($3)
+248 	 8c01 	 185  :	 SWD	$0,	1($3)
+249 	 4f02 	 186  :	 ADI	$3,	$3,	2
+24a 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+24b 	 a0b2 	 188  :	 JAL	178			# JUMP
+24c 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+24d 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+24e 	 6000 	 180  :	 LHI	$0,	$0,	0
+24f 	 5001 	 181  :	 ORI	$0,	$0,	1
+250 	 f819 	 182  :	 JPR	$2			# JUMP REG
+251 	 7dff 	 189  :	 LWD	$1,	-1($3)
+252 	 8cff 	 190  :	 SWD	$0,	-1($3)
+253 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+254 	 a0b2 	 192  :	 JAL	178			# JUMP
+255 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+256 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+257 	 6000 	 180  :	 LHI	$0,	$0,	0
+258 	 5001 	 181  :	 ORI	$0,	$0,	1
+259 	 f819 	 182  :	 JPR	$2			# JUMP REG
+25a 	 7dff 	 193  :	 LWD	$1,	-1($3)
+25b 	 7efe 	 194  :	 LWD	$2,	-2($3)
+25c 	 f100 	 195  :	 ADD	$0,	$0,	$1
+25d 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+25e 	 f819 	 197  :	 JPR	$2			# JUMP REG
+25f 	 7dff 	 193  :	 LWD	$1,	-1($3)
+260 	 7efe 	 194  :	 LWD	$2,	-2($3)
+261 	 f100 	 195  :	 ADD	$0,	$0,	$1
+262 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+263 	 f819 	 197  :	 JPR	$2			# JUMP REG
+264 	 7dff 	 189  :	 LWD	$1,	-1($3)
+265 	 8cff 	 190  :	 SWD	$0,	-1($3)
+266 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+267 	 a0b2 	 192  :	 JAL	178			# JUMP
+268 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+269 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+26a 	 8e00 	 184  :	 SWD	$2,	0($3)
+26b 	 8c01 	 185  :	 SWD	$0,	1($3)
+26c 	 4f02 	 186  :	 ADI	$3,	$3,	2
+26d 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+26e 	 a0b2 	 188  :	 JAL	178			# JUMP
+26f 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+270 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+271 	 8e00 	 184  :	 SWD	$2,	0($3)
+272 	 8c01 	 185  :	 SWD	$0,	1($3)
+273 	 4f02 	 186  :	 ADI	$3,	$3,	2
+274 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+275 	 a0b2 	 188  :	 JAL	178			# JUMP
+276 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+277 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+278 	 6000 	 180  :	 LHI	$0,	$0,	0
+279 	 5001 	 181  :	 ORI	$0,	$0,	1
+27a 	 f819 	 182  :	 JPR	$2			# JUMP REG
+27b 	 7dff 	 189  :	 LWD	$1,	-1($3)
+27c 	 8cff 	 190  :	 SWD	$0,	-1($3)
+27d 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+27e 	 a0b2 	 192  :	 JAL	178			# JUMP
+27f 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+280 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+281 	 6000 	 180  :	 LHI	$0,	$0,	0
+282 	 5001 	 181  :	 ORI	$0,	$0,	1
+283 	 f819 	 182  :	 JPR	$2			# JUMP REG
+284 	 7dff 	 193  :	 LWD	$1,	-1($3)
+285 	 7efe 	 194  :	 LWD	$2,	-2($3)
+286 	 f100 	 195  :	 ADD	$0,	$0,	$1
+287 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+288 	 f819 	 197  :	 JPR	$2			# JUMP REG
+289 	 7dff 	 189  :	 LWD	$1,	-1($3)
+28a 	 8cff 	 190  :	 SWD	$0,	-1($3)
+28b 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+28c 	 a0b2 	 192  :	 JAL	178			# JUMP
+28d 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+28e 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+28f 	 8e00 	 184  :	 SWD	$2,	0($3)
+290 	 8c01 	 185  :	 SWD	$0,	1($3)
+291 	 4f02 	 186  :	 ADI	$3,	$3,	2
+292 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+293 	 a0b2 	 188  :	 JAL	178			# JUMP
+294 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+295 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+296 	 6000 	 180  :	 LHI	$0,	$0,	0
+297 	 5001 	 181  :	 ORI	$0,	$0,	1
+298 	 f819 	 182  :	 JPR	$2			# JUMP REG
+299 	 7dff 	 189  :	 LWD	$1,	-1($3)
+29a 	 8cff 	 190  :	 SWD	$0,	-1($3)
+29b 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+29c 	 a0b2 	 192  :	 JAL	178			# JUMP
+29d 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+29e 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+29f 	 8e00 	 184  :	 SWD	$2,	0($3)
+2a0 	 8c01 	 185  :	 SWD	$0,	1($3)
+2a1 	 4f02 	 186  :	 ADI	$3,	$3,	2
+2a2 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+2a3 	 a0b2 	 188  :	 JAL	178			# JUMP
+2a4 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+2a5 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+2a6 	 6000 	 180  :	 LHI	$0,	$0,	0
+2a7 	 5001 	 181  :	 ORI	$0,	$0,	1
+2a8 	 f819 	 182  :	 JPR	$2			# JUMP REG
+2a9 	 7dff 	 189  :	 LWD	$1,	-1($3)
+2aa 	 8cff 	 190  :	 SWD	$0,	-1($3)
+2ab 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+2ac 	 a0b2 	 192  :	 JAL	178			# JUMP
+2ad 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+2ae 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+2af 	 6000 	 180  :	 LHI	$0,	$0,	0
+2b0 	 5001 	 181  :	 ORI	$0,	$0,	1
+2b1 	 f819 	 182  :	 JPR	$2			# JUMP REG
+2b2 	 7dff 	 193  :	 LWD	$1,	-1($3)
+2b3 	 7efe 	 194  :	 LWD	$2,	-2($3)
+2b4 	 f100 	 195  :	 ADD	$0,	$0,	$1
+2b5 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+2b6 	 f819 	 197  :	 JPR	$2			# JUMP REG
+2b7 	 7dff 	 193  :	 LWD	$1,	-1($3)
+2b8 	 7efe 	 194  :	 LWD	$2,	-2($3)
+2b9 	 f100 	 195  :	 ADD	$0,	$0,	$1
+2ba 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+2bb 	 f819 	 197  :	 JPR	$2			# JUMP REG
+2bc 	 7dff 	 193  :	 LWD	$1,	-1($3)
+2bd 	 7efe 	 194  :	 LWD	$2,	-2($3)
+2be 	 f100 	 195  :	 ADD	$0,	$0,	$1
+2bf 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+2c0 	 f819 	 197  :	 JPR	$2			# JUMP REG
+2c1 	 7dff 	 193  :	 LWD	$1,	-1($3)
+2c2 	 7efe 	 194  :	 LWD	$2,	-2($3)
+2c3 	 f100 	 195  :	 ADD	$0,	$0,	$1
+2c4 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+2c5 	 f819 	 197  :	 JPR	$2			# JUMP REG
+2c6 	 7dff 	 189  :	 LWD	$1,	-1($3)
+2c7 	 8cff 	 190  :	 SWD	$0,	-1($3)
+2c8 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+2c9 	 a0b2 	 192  :	 JAL	178			# JUMP
+2ca 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+2cb 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+2cc 	 8e00 	 184  :	 SWD	$2,	0($3)
+2cd 	 8c01 	 185  :	 SWD	$0,	1($3)
+2ce 	 4f02 	 186  :	 ADI	$3,	$3,	2
+2cf 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+2d0 	 a0b2 	 188  :	 JAL	178			# JUMP
+2d1 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+2d2 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+2d3 	 8e00 	 184  :	 SWD	$2,	0($3)
+2d4 	 8c01 	 185  :	 SWD	$0,	1($3)
+2d5 	 4f02 	 186  :	 ADI	$3,	$3,	2
+2d6 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+2d7 	 a0b2 	 188  :	 JAL	178			# JUMP
+2d8 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+2d9 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+2da 	 8e00 	 184  :	 SWD	$2,	0($3)
+2db 	 8c01 	 185  :	 SWD	$0,	1($3)
+2dc 	 4f02 	 186  :	 ADI	$3,	$3,	2
+2dd 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+2de 	 a0b2 	 188  :	 JAL	178			# JUMP
+2df 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+2e0 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+2e1 	 6000 	 180  :	 LHI	$0,	$0,	0
+2e2 	 5001 	 181  :	 ORI	$0,	$0,	1
+2e3 	 f819 	 182  :	 JPR	$2			# JUMP REG
+2e4 	 7dff 	 189  :	 LWD	$1,	-1($3)
+2e5 	 8cff 	 190  :	 SWD	$0,	-1($3)
+2e6 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+2e7 	 a0b2 	 192  :	 JAL	178			# JUMP
+2e8 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+2e9 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+2ea 	 6000 	 180  :	 LHI	$0,	$0,	0
+2eb 	 5001 	 181  :	 ORI	$0,	$0,	1
+2ec 	 f819 	 182  :	 JPR	$2			# JUMP REG
+2ed 	 7dff 	 193  :	 LWD	$1,	-1($3)
+2ee 	 7efe 	 194  :	 LWD	$2,	-2($3)
+2ef 	 f100 	 195  :	 ADD	$0,	$0,	$1
+2f0 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+2f1 	 f819 	 197  :	 JPR	$2			# JUMP REG
+2f2 	 7dff 	 189  :	 LWD	$1,	-1($3)
+2f3 	 8cff 	 190  :	 SWD	$0,	-1($3)
+2f4 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+2f5 	 a0b2 	 192  :	 JAL	178			# JUMP
+2f6 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+2f7 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+2f8 	 8e00 	 184  :	 SWD	$2,	0($3)
+2f9 	 8c01 	 185  :	 SWD	$0,	1($3)
+2fa 	 4f02 	 186  :	 ADI	$3,	$3,	2
+2fb 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+2fc 	 a0b2 	 188  :	 JAL	178			# JUMP
+2fd 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+2fe 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+2ff 	 6000 	 180  :	 LHI	$0,	$0,	0
+300 	 5001 	 181  :	 ORI	$0,	$0,	1
+301 	 f819 	 182  :	 JPR	$2			# JUMP REG
+302 	 7dff 	 189  :	 LWD	$1,	-1($3)
+303 	 8cff 	 190  :	 SWD	$0,	-1($3)
+304 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+305 	 a0b2 	 192  :	 JAL	178			# JUMP
+306 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+307 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+308 	 8e00 	 184  :	 SWD	$2,	0($3)
+309 	 8c01 	 185  :	 SWD	$0,	1($3)
+30a 	 4f02 	 186  :	 ADI	$3,	$3,	2
+30b 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+30c 	 a0b2 	 188  :	 JAL	178			# JUMP
+30d 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+30e 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+30f 	 6000 	 180  :	 LHI	$0,	$0,	0
+310 	 5001 	 181  :	 ORI	$0,	$0,	1
+311 	 f819 	 182  :	 JPR	$2			# JUMP REG
+312 	 7dff 	 189  :	 LWD	$1,	-1($3)
+313 	 8cff 	 190  :	 SWD	$0,	-1($3)
+314 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+315 	 a0b2 	 192  :	 JAL	178			# JUMP
+316 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+317 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+318 	 6000 	 180  :	 LHI	$0,	$0,	0
+319 	 5001 	 181  :	 ORI	$0,	$0,	1
+31a 	 f819 	 182  :	 JPR	$2			# JUMP REG
+31b 	 7dff 	 193  :	 LWD	$1,	-1($3)
+31c 	 7efe 	 194  :	 LWD	$2,	-2($3)
+31d 	 f100 	 195  :	 ADD	$0,	$0,	$1
+31e 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+31f 	 f819 	 197  :	 JPR	$2			# JUMP REG
+320 	 7dff 	 193  :	 LWD	$1,	-1($3)
+321 	 7efe 	 194  :	 LWD	$2,	-2($3)
+322 	 f100 	 195  :	 ADD	$0,	$0,	$1
+323 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+324 	 f819 	 197  :	 JPR	$2			# JUMP REG
+325 	 7dff 	 193  :	 LWD	$1,	-1($3)
+326 	 7efe 	 194  :	 LWD	$2,	-2($3)
+327 	 f100 	 195  :	 ADD	$0,	$0,	$1
+328 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+329 	 f819 	 197  :	 JPR	$2			# JUMP REG
+32a 	 7dff 	 189  :	 LWD	$1,	-1($3)
+32b 	 8cff 	 190  :	 SWD	$0,	-1($3)
+32c 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+32d 	 a0b2 	 192  :	 JAL	178			# JUMP
+32e 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+32f 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+330 	 8e00 	 184  :	 SWD	$2,	0($3)
+331 	 8c01 	 185  :	 SWD	$0,	1($3)
+332 	 4f02 	 186  :	 ADI	$3,	$3,	2
+333 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+334 	 a0b2 	 188  :	 JAL	178			# JUMP
+335 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+336 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+337 	 8e00 	 184  :	 SWD	$2,	0($3)
+338 	 8c01 	 185  :	 SWD	$0,	1($3)
+339 	 4f02 	 186  :	 ADI	$3,	$3,	2
+33a 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+33b 	 a0b2 	 188  :	 JAL	178			# JUMP
+33c 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+33d 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+33e 	 6000 	 180  :	 LHI	$0,	$0,	0
+33f 	 5001 	 181  :	 ORI	$0,	$0,	1
+340 	 f819 	 182  :	 JPR	$2			# JUMP REG
+341 	 7dff 	 189  :	 LWD	$1,	-1($3)
+342 	 8cff 	 190  :	 SWD	$0,	-1($3)
+343 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+344 	 a0b2 	 192  :	 JAL	178			# JUMP
+345 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+346 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+347 	 8e00 	 184  :	 SWD	$2,	0($3)
+348 	 8c01 	 185  :	 SWD	$0,	1($3)
+349 	 4f02 	 186  :	 ADI	$3,	$3,	2
+34a 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+34b 	 a0b2 	 188  :	 JAL	178			# JUMP
+34c 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+34d 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+34e 	 6000 	 180  :	 LHI	$0,	$0,	0
+34f 	 5001 	 181  :	 ORI	$0,	$0,	1
+350 	 f819 	 182  :	 JPR	$2			# JUMP REG
+351 	 7dff 	 189  :	 LWD	$1,	-1($3)
+352 	 8cff 	 190  :	 SWD	$0,	-1($3)
+353 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+354 	 a0b2 	 192  :	 JAL	178			# JUMP
+355 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+356 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+357 	 6000 	 180  :	 LHI	$0,	$0,	0
+358 	 5001 	 181  :	 ORI	$0,	$0,	1
+359 	 f819 	 182  :	 JPR	$2			# JUMP REG
+35a 	 7dff 	 193  :	 LWD	$1,	-1($3)
+35b 	 7efe 	 194  :	 LWD	$2,	-2($3)
+35c 	 f100 	 195  :	 ADD	$0,	$0,	$1
+35d 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+35e 	 f819 	 197  :	 JPR	$2			# JUMP REG
+35f 	 7dff 	 193  :	 LWD	$1,	-1($3)
+360 	 7efe 	 194  :	 LWD	$2,	-2($3)
+361 	 f100 	 195  :	 ADD	$0,	$0,	$1
+362 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+363 	 f819 	 197  :	 JPR	$2			# JUMP REG
+364 	 7dff 	 189  :	 LWD	$1,	-1($3)
+365 	 8cff 	 190  :	 SWD	$0,	-1($3)
+366 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+367 	 a0b2 	 192  :	 JAL	178			# JUMP
+368 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+369 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+36a 	 8e00 	 184  :	 SWD	$2,	0($3)
+36b 	 8c01 	 185  :	 SWD	$0,	1($3)
+36c 	 4f02 	 186  :	 ADI	$3,	$3,	2
+36d 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+36e 	 a0b2 	 188  :	 JAL	178			# JUMP
+36f 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+370 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+371 	 8e00 	 184  :	 SWD	$2,	0($3)
+372 	 8c01 	 185  :	 SWD	$0,	1($3)
+373 	 4f02 	 186  :	 ADI	$3,	$3,	2
+374 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+375 	 a0b2 	 188  :	 JAL	178			# JUMP
+376 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+377 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+378 	 6000 	 180  :	 LHI	$0,	$0,	0
+379 	 5001 	 181  :	 ORI	$0,	$0,	1
+37a 	 f819 	 182  :	 JPR	$2			# JUMP REG
+37b 	 7dff 	 189  :	 LWD	$1,	-1($3)
+37c 	 8cff 	 190  :	 SWD	$0,	-1($3)
+37d 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+37e 	 a0b2 	 192  :	 JAL	178			# JUMP
+37f 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+380 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+381 	 6000 	 180  :	 LHI	$0,	$0,	0
+382 	 5001 	 181  :	 ORI	$0,	$0,	1
+383 	 f819 	 182  :	 JPR	$2			# JUMP REG
+384 	 7dff 	 193  :	 LWD	$1,	-1($3)
+385 	 7efe 	 194  :	 LWD	$2,	-2($3)
+386 	 f100 	 195  :	 ADD	$0,	$0,	$1
+387 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+388 	 f819 	 197  :	 JPR	$2			# JUMP REG
+389 	 7dff 	 189  :	 LWD	$1,	-1($3)
+38a 	 8cff 	 190  :	 SWD	$0,	-1($3)
+38b 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+38c 	 a0b2 	 192  :	 JAL	178			# JUMP
+38d 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+38e 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+38f 	 8e00 	 184  :	 SWD	$2,	0($3)
+390 	 8c01 	 185  :	 SWD	$0,	1($3)
+391 	 4f02 	 186  :	 ADI	$3,	$3,	2
+392 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+393 	 a0b2 	 188  :	 JAL	178			# JUMP
+394 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+395 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+396 	 6000 	 180  :	 LHI	$0,	$0,	0
+397 	 5001 	 181  :	 ORI	$0,	$0,	1
+398 	 f819 	 182  :	 JPR	$2			# JUMP REG
+399 	 7dff 	 189  :	 LWD	$1,	-1($3)
+39a 	 8cff 	 190  :	 SWD	$0,	-1($3)
+39b 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+39c 	 a0b2 	 192  :	 JAL	178			# JUMP
+39d 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+39e 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+39f 	 8e00 	 184  :	 SWD	$2,	0($3)
+3a0 	 8c01 	 185  :	 SWD	$0,	1($3)
+3a1 	 4f02 	 186  :	 ADI	$3,	$3,	2
+3a2 	 40fe 	 187  :	 ADI	$0,	$0,	-2
+3a3 	 a0b2 	 188  :	 JAL	178			# JUMP
+3a4 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+3a5 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+3a6 	 6000 	 180  :	 LHI	$0,	$0,	0
+3a7 	 5001 	 181  :	 ORI	$0,	$0,	1
+3a8 	 f819 	 182  :	 JPR	$2			# JUMP REG
+3a9 	 7dff 	 189  :	 LWD	$1,	-1($3)
+3aa 	 8cff 	 190  :	 SWD	$0,	-1($3)
+3ab 	 44ff 	 191  :	 ADI	$0,	$1,	-1
+3ac 	 a0b2 	 192  :	 JAL	178			# JUMP
+3ad 	 41ff 	 178  :	 ADI	$1,	$0,	-1
+3ae 	 2404 	 179  :	 BGZ	$1,	$0,	4	# BRANCH
+3af 	 6000 	 180  :	 LHI	$0,	$0,	0
+3b0 	 5001 	 181  :	 ORI	$0,	$0,	1
+3b1 	 f819 	 182  :	 JPR	$2			# JUMP REG
+3b2 	 7dff 	 193  :	 LWD	$1,	-1($3)
+3b3 	 7efe 	 194  :	 LWD	$2,	-2($3)
+3b4 	 f100 	 195  :	 ADD	$0,	$0,	$1
+3b5 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+3b6 	 f819 	 197  :	 JPR	$2			# JUMP REG
+3b7 	 7dff 	 193  :	 LWD	$1,	-1($3)
+3b8 	 7efe 	 194  :	 LWD	$2,	-2($3)
+3b9 	 f100 	 195  :	 ADD	$0,	$0,	$1
+3ba 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+3bb 	 f819 	 197  :	 JPR	$2			# JUMP REG
+3bc 	 7dff 	 193  :	 LWD	$1,	-1($3)
+3bd 	 7efe 	 194  :	 LWD	$2,	-2($3)
+3be 	 f100 	 195  :	 ADD	$0,	$0,	$1
+3bf 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+3c0 	 f819 	 197  :	 JPR	$2			# JUMP REG
+3c1 	 7dff 	 193  :	 LWD	$1,	-1($3)
+3c2 	 7efe 	 194  :	 LWD	$2,	-2($3)
+3c3 	 f100 	 195  :	 ADD	$0,	$0,	$1
+3c4 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+3c5 	 f819 	 197  :	 JPR	$2			# JUMP REG
+3c6 	 7dff 	 193  :	 LWD	$1,	-1($3)
+3c7 	 7efe 	 194  :	 LWD	$2,	-2($3)
+3c8 	 f100 	 195  :	 ADD	$0,	$0,	$1
+3c9 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+3ca 	 f819 	 197  :	 JPR	$2			# JUMP REG
+3cb 	 7dff 	 193  :	 LWD	$1,	-1($3)
+3cc 	 7efe 	 194  :	 LWD	$2,	-2($3)
+3cd 	 f100 	 195  :	 ADD	$0,	$0,	$1
+3ce 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+3cf 	 f819 	 197  :	 JPR	$2			# JUMP REG
+3d0 	 7dff 	 193  :	 LWD	$1,	-1($3)
+3d1 	 7efe 	 194  :	 LWD	$2,	-2($3)
+3d2 	 f100 	 195  :	 ADD	$0,	$0,	$1
+3d3 	 4ffe 	 196  :	 ADI	$3,	$3,	-2
+3d4 	 f819 	 197  :	 JPR	$2			# JUMP REG
+3d5 	 f01c 	 172  :	 WWD	$0			# READVALUE!!!
+3d6 	 f01d 	 173  :	 HLT	
+
+REGISTER FILE
+$0 :	0022
+$1 :	000d
+$2 :	00ac
+$3 :	0003
+
+Number of Instructions	 03d5
+
+NextPC:	 00ae
+
+Next Inst:	 4a01
